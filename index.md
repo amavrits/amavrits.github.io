@@ -7,9 +7,6 @@
 - [Grain Size in the River Waal](/projects/grain-size-waal/)
 - [Blackjack with DRL](/projects/blackjack-drl/)
 - [Reddit Sentiment Analysis](/projects/reddit-sentiment/)
-- [Bayesian Analysis Framework](/projects/bda-framework/)
-- [Gradient Descent in JAX](/projects/gd-jax/)
-- [EM Algorithm](/projects/em-algorithm/)
 
 ---
 
