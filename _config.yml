@@ -1,25 +1,7 @@
 title: "Antonis Mavritsakis – Data Science Portfolio"
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-include-cache
+
 custom_css:
   - /assets/css/custom.css
-
-author:
-  name: "Antonis Mavritsakis"
-  avatar: "/assets/images/profile.png" # Optional
-  bio: "Data Scientist | Researcher | Engineer"
-  location: "Netherlands"
-  email: amavrits@gmail.com
-  links:
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/amavrits"
-    - label: "Email"
-      icon: "fas fa-envelope"
-      url: "mailto:amavrits@gmail.com"
-
-# Optional: remove baseurl if using amavrits.github.io
-#baseurl: ""
-
-minimal_mistakes_skin: "default"  # or any skin you like
