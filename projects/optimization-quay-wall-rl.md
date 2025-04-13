@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Optimization of Decision-Making for Port Engineering Assets via RL"
+---
+
 # Optimization of Decision-Making for Port Engineering Assets via RL
 
 Engineering assets of ports, such as quay walls, hold significant, societal and environmental value. Since a considerable percentage of such infrastructure is reaching the end of its technical lifetime, effective decision-making is required to guarantee their safe operation in a cost-effective manner for the years to come.

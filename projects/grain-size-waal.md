@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Grain Size Distribution in the River Waal"
+---
+
 # Grain Size Distribution in the River Waal
 
 This project focused on generating a spatial model that determines the grain size distribution over locations in the river Waal. At this stage, the scope aimed to achieve a description of baseline patterns. The data is composed of a sieving test database, which contain the diameters of the test sieves and information about the location and year of testing, as well as the morphology of the river. The project included the following steps:
