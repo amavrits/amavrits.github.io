@@ -19,3 +19,7 @@ author:
 
 # Optional: remove baseurl if using amavrits.github.io
 #baseurl: ""
+
+minimal_mistakes_skin: "default"  # or any skin you like
+custom_css:
+  - "/assets/css/custom.css"

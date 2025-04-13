@@ -1,0 +1,16 @@
+body {
+  font-size: 16px; /* Change to whatever fits you better */
+}
+
+h1, h2, h3, h4 {
+  font-weight: 600;
+  line-height: 1.3;
+}
+
+.page__title {
+  font-size: 1.75rem; /* Default is 2.25rem */
+}
+
+.page__content {
+  font-size: 1rem;     /* Default is a bit larger */
+}
