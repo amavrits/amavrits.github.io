@@ -16,7 +16,7 @@ sieve diameters).
 5. Spatial modelling via logistic regression (feature selection,
 cross-validation, setup of the predictive model).
 
-<img src="../assets/river.png" alt="river" width="500"/>
+<img src="/assets/river.png" alt="river" width="500"/>
 
 **Key Points:**
 - Hypothesis testing

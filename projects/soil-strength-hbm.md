@@ -14,7 +14,7 @@ Based on this, Hierarchical Bayesian Modelling (HBM), or partially pooled modell
 
 Cross-validation took the spotlight in the analysis. Model selection is tied to the expected use of the model, and so a fitting cross-validation scheme must be adopted for identifying the fittest model. Will the model be used to make predictions within one of the examined sites, or will it be used to predict for an entirely new site? After identifying the fittest model accordingly, its predictions are used in the risk analysis of a flood defense system. Ultimately, the impact of adopting HBM on the accepted risk is quantified.
 
-<img src="../assets/hbm.png" alt="hbm" height="400"/>
+<img src="/assets/hbm.png" alt="hbm" height="400"/>
 
 **Key Points:**
 - Hierarchical Bayesian Modelling
