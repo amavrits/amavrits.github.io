@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: single
 title: "Grain Size Distribution in the River Waal"
+permalink: /projects/grain-size-waal/
 ---
 
 # Grain Size Distribution in the River Waal

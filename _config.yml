@@ -2,11 +2,13 @@ title: "Antonis Mavritsakis – Data Science Portfolio"
 remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-include-cache
+custom_css:
+  - /assets/css/custom.css
 
 author:
   name: "Antonis Mavritsakis"
   avatar: "/assets/images/profile.png" # Optional
-  bio: "Data Scientist | Engineer | Researcher"
+  bio: "Data Scientist | Researcher | Engineer"
   location: "Netherlands"
   email: amavrits@gmail.com
   links:
@@ -21,5 +23,3 @@ author:
 #baseurl: ""
 
 minimal_mistakes_skin: "default"  # or any skin you like
-custom_css:
-  - "/assets/css/custom.css"

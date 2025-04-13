@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: single
 title: "Value of Information Analysis of Flood Protection Asset"
+permalink: /projects/voi-flood-asset/
 ---
 
 # Value of Information Analysis of Flood Protection Asset

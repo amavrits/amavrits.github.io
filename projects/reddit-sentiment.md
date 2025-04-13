@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: single
 title: "Reddit Sentiment Analysis for Stock Price Forecasting"
+permalink: /projects/reddit-sentiment/
 ---
 
 # Reddit Sentiment Analysis for Stock Price Forecasting

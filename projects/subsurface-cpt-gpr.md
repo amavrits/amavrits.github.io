@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: single
 title: "Subsurface Mapping with CPT using Bayesian GPR"
+permalink: /projects/subsurface-cpt-gpr/
 ---
 
 # Subsurface Mapping with CPT using Bayesian GPR

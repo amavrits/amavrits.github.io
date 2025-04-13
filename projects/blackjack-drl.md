@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: single
 title: "Beating Blackjack with Deep Reinforcement Learning"
+permalink: /projects/blackjack-drl/
 ---
 
 # Beating Blackjack with Deep Reinforcement Learning

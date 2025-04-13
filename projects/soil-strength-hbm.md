@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: single
 title: "Hierarchical Bayesian Modelling of Soil Strength"
+permalink: /projects/soil-strength-hbm/
 ---
 
 # Hierarchical Bayesian Modelling of Soil Strength

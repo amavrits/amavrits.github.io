@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: single
 title: "Optimization of Decision-Making for Port Engineering Assets via RL"
+permalink: /projects/optimization-quay-wall-rl/
 ---
 
 # Optimization of Decision-Making for Port Engineering Assets via RL

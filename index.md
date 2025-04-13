@@ -1,4 +1,4 @@
-# Projects
+[//]: # (# Projects)
 
 - [Port Asset Optimization via RL](projects/optimization-quay-wall-rl)
 - [Subsurface Mapping with Bayesian GPR](/data-science-portfolio/projects/subsurface-cpt-gpr)
