@@ -1,6 +1,4 @@
-# 👋 Welcome to My Data Science Portfolio
-
-## 📊 Projects
+# Projects
 
 - [Port Asset Optimization via RL](/projects/optimization-quay-wall-rl/)
 - [Subsurface Mapping with Bayesian GPR](/projects/subsurface-cpt-gpr/)
@@ -14,4 +12,5 @@
 - [EM Algorithm](/projects/em-algorithm/)
 
 ---
-📫 [Email](mailto:amavrits@gmail.com) | [GitHub](https://github.com/amavrits)
+
+[//]: # ( [Email]&#40;mailto:amavrits@gmail.com&#41; | [GitHub]&#40;https://github.com/amavrits&#41;)
