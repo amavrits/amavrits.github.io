@@ -4,8 +4,6 @@ title: "Hierarchical Bayesian Modelling of Soil Strength"
 permalink: /projects/soil-strength-hbm/
 ---
 
-# Hierarchical Bayesian Modelling of Soil Strength
-
 The project aims to derive a strong relationship between two geotechnical variables, *q<sub>net<sub>* and *S<sub>u<sub>*, which are relevant for geotechnical flood risk analysis. Observed pairs of these variables are claimed by geotechnical site investigation over several sites in the Netherlands. The analysis accessed and pre-processed a large Dutch site investigation database. Experience suggests that the relationship between *q<sub>net<sub>* and *S<sub>u<sub>*:
 1. shows some individual behavior at every site; and
 2. follows a regional trend to some extent.

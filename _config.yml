@@ -1,5 +1,5 @@
 title: "Antonis Mavritsakis – Data Science Portfolio"
-remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-include-cache
 

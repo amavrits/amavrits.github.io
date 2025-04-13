@@ -4,8 +4,6 @@ title: "Optimization of Decision-Making for Port Engineering Assets via RL"
 permalink: /projects/optimization-quay-wall-rl/
 ---
 
-# Optimization of Decision-Making for Port Engineering Assets via RL
-
 Engineering assets of ports, such as quay walls, hold significant, societal and environmental value. Since a considerable percentage of such infrastructure is reaching the end of its technical lifetime, effective decision-making is required to guarantee their safe operation in a cost-effective manner for the years to come.
 
 This research project focused on employing Deep (Q-) Reinforcement Learning for assessing the optimal course of action towards extending the life of an existing port quay wall. The analysis included optimizing the design of structural changes of the quay wall and scheduling maintenance, informed by measurements of quay wall corrosion during its life. 
