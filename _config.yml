@@ -7,9 +7,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-remote-theme
   - jekyll-include-cache
-scheme:
-  default: dark
-  alternate: light
+
+minimal_mistakes_skin: "dark"    # built‑in skins include "dark", "default", "air", "mint", etc. :contentReference[oaicite:0]{index=0}
+
 nav:
   - title: "Bio"
     url:   /bio/
