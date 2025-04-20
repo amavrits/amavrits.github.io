@@ -10,4 +10,4 @@
 
 ---
 
-[//]: # ( [Email]&#40;mailto:amavrits@gmail.com&#41; | [GitHub]&#40;https://github.com/amavrits&#41;)
+ [Email](mailto:amavrits@gmail.com) | [GitHub](https://github.com/amavrits)
