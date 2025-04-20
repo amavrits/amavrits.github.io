@@ -1,22 +1,15 @@
 # ── _config.yml ──
 
-# Plugins (order doesn’t strictly matter)
+remote_theme: "mmistakes/minimal-mistakes@4.25.0"
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-remote-theme
   - jekyll-include-cache
-
-# Use Minimal Mistakes as a remote theme
-remote_theme: "mmistakes/minimal-mistakes@4.25.0"
-
-# Color scheme
 scheme:
   default: dark
   alternate: light
-
-# Your nav
 nav:
   - title: "Bio"
     url:   /bio/
