@@ -1,18 +1,22 @@
-title: My Personal Site
-description: "Thoughts, projects & blog"
-theme: minima        # one of GitHub’s supported themes
-plugins:
-  - jekyll-remote-theme
-remote_theme: mmistakes/minimal-mistakes@4.25.0
+# ── _config.yml ──
 
+# Plugins (order doesn’t strictly matter)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-remote-theme
+  - jekyll-include-cache
+
+# Use Minimal Mistakes as a remote theme
+remote_theme: "mmistakes/minimal-mistakes@4.25.0"
+
+# Color scheme
 scheme:
   default: dark
   alternate: light
 
-theme_switch:
-  position: top  # or 'bottom'
-  icon: auto     # auto picks the right SVG
-
+# Your nav
 nav:
   - title: "Bio"
     url:   /bio/
@@ -20,4 +24,3 @@ nav:
     url:   /projects/
   - title: "Developments"
     url:   /developments/
-
