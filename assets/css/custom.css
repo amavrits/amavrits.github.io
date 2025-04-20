@@ -1,18 +1,24 @@
+
+/* Force dark background and white text */
 body,
 .page__content,
 .page__title,
 .site-header,
 .site-footer,
+.archive__item-excerpt,
+.archive__item-title,
+.page__title a,
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a,
 a,
 p,
-li,
-h1, h2, h3, h4, h5, h6 {
+li {
   color: white !important;
   background-color: #121212 !important;
 }
 
+/* Font sizes */
 body {
-  font-size: 14px !important;
+  font-size: 0.875rem !important;   /* was 1rem (≈16px) */
 }
 
 .page__content {
@@ -20,5 +26,19 @@ body {
 }
 
 .page__title {
-  font-size: 1.5rem !important;
+  font-size: 1.25rem !important;    /* was 1.5rem (≈24px) */
+}
+
+/* Link styling */
+a,
+a:visited,
+a:active,
+a:hover {
+  color: white !important;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #bbbbbb !important;
+  text-decoration: underline;
 }
