@@ -4,8 +4,6 @@ remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
-
+#custom_css:
+#  - /assets/css/main.css
 minimal_mistakes_skin: "dark"
-
-custom_css:
-  - /assets/css/main.css
