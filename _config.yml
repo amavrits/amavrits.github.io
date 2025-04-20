@@ -8,4 +8,4 @@ plugins:
 minimal_mistakes_skin: "dark"
 
 custom_css:
-  - /assets/css/custom.css
+  - /assets/css/main.css
