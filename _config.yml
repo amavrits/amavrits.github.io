@@ -13,3 +13,11 @@ theme_switch:
   position: top  # or 'bottom'
   icon: auto     # auto picks the right SVG
 
+nav:
+  - title: "Bio"
+    url:   /bio/
+  - title: "Projects"
+    url:   /projects/
+  - title: "Developments"
+    url:   /developments/
+
