@@ -5,5 +5,5 @@ plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
 custom_css:
-  - /assets/css/custom.css
+  - assets/css/custom.css
 minimal_mistakes_skin: "dark"
