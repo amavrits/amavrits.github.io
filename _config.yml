@@ -2,7 +2,7 @@ title: "Antonis Mavritsakis – Data Science Portfolio"
 layout: single
 remote_theme: mmistakes/minimal-mistakes
 plugins:
-  - jekyll-remote-theme   # ← you need this
+  - jekyll-remote-theme
   - jekyll-include-cache
 
 minimal_mistakes_skin: "dark"
