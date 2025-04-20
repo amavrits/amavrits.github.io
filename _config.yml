@@ -1,5 +1,5 @@
 title: "Antonis Mavritsakis – Data Science Portfolio"
-layout: single
+
 remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-remote-theme
@@ -8,4 +8,4 @@ plugins:
 minimal_mistakes_skin: "dark"
 
 custom_css:
-  - /assets/css/custom.css
+  - /assets/css/main.css
