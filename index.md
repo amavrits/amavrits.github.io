@@ -1,4 +1,3 @@
-# Projects
 
 - [Port Asset Optimization via RL](/projects/optimization-quay-wall-rl/)
 - [Subsurface Mapping with Bayesian GPR](/projects/subsurface-cpt-gpr/)
