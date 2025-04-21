@@ -1,13 +1,13 @@
 ---
 layout: single
-title: “Curriculum Vitae”
+title: Curriculum Vitae
 permalink: /cv/
 nav_order: 2
 ---
 
+#
 # Antonis Mavritsakis
 
-[//]: # (✉️ [amavrits@gmail.com]&#40;mailto:amavrits@gmail.com&#41; | 🐙 [amavrits]&#40;https://github.com/amavrits&#41; | 📍 Utrecht, The Netherlands | 📞 +31653762057 )
 ✉️ [amavrits@gmail.com](mailto:amavrits@gmail.com) | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) [github.com/amavrits](https://github.com/amavrits) | 📍 Utrecht, The Netherlands | 📞 +31653762057
 
 ## Profile
