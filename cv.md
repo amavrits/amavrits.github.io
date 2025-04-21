@@ -5,7 +5,7 @@ permalink: /cv/
 nav_order: 2
 ---
 
-#
+
 # Antonis Mavritsakis
 
 ✉️ [amavrits@gmail.com](mailto:amavrits@gmail.com) | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) [github.com/amavrits](https://github.com/amavrits) | 📍 Utrecht, The Netherlands | 📞 +31653762057
