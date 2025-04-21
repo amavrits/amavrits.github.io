@@ -1,4 +1,5 @@
 ---
+layout: single
 title: “Bio”
 permalink: /bio/
 nav_order: 1
