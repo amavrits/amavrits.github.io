@@ -4,15 +4,47 @@
 
 /* 1) Override the default “paragraph” size ($type‑size‑5 ≈ 1em / 16px)
    ↓ adjust this value to taste (e.g. 0.875em ≈ 14px) */
-$type-size-5: 0.875em !default;
+//$type-size-5: 0.875em !default;
 
 /* 2) (Optional) you can also tweak heading scales:
    $type-size-4: 1.125em !default; // ~18px
    $type-size-6: 0.75em   !default; // ~12px
 */
 
-/* 3) Import your chosen skin (we’re using “dark” here) */
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'dark' }}";
+/* type scale */
+$type-size-1: 2.441em !default;
+$type-size-2: 1.953em !default;
+$type-size-3: 1.563em !default;
+$type-size-4: 1.25em !default;
+$type-size-5: 1.1em !default;
+$type-size-6: 0.8em !default;
+$type-size-7: 0.8em !default;
+$type-size-8: 0.625em !default;
 
-/* 4) Then pull in the rest of the theme */
+/* headline scale */
+$h-size-1: 1.563em !default;
+$h-size-2: 1.25em !default;
+$h-size-3: 1.125em !default;
+$h-size-4: 1.0625em !default;
+$h-size-5: 1.03125em !default;
+$h-size-6: 1em !default;
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'dark' }}";
 @import "minimal-mistakes";
+
+html {
+    font-size: 14px; // change to whatever
+
+    @include breakpoint($medium) {
+      font-size: 16px; // change to whatever
+    }
+
+    @include breakpoint($large) {
+      font-size: 18px; // change to whatever
+    }
+
+    @include breakpoint($x-large) {
+      font-size: 20px; // change to whatever
+    }
+  }
+
