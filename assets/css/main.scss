@@ -1,27 +1,20 @@
 ---
-# only the YAML front‑matter is needed here
+# Front matter required by Jekyll (keep empty)
 ---
 
-/* 1) Override the default “paragraph” size ($type‑size‑5 ≈ 1em / 16px)
-   ↓ adjust this value to taste (e.g. 0.875em ≈ 14px) */
-//$type-size-5: 0.875em !default;
+/* ---- Custom Typography (Adjustable) ---- */
 
-/* 2) (Optional) you can also tweak heading scales:
-   $type-size-4: 1.125em !default; // ~18px
-   $type-size-6: 0.75em   !default; // ~12px
-*/
-
-/* type scale */
+/* Type scale (paragraph and general text sizes) */
 $type-size-1: 2.441em !default;
 $type-size-2: 1.953em !default;
 $type-size-3: 1.563em !default;
 $type-size-4: 1.25em !default;
-$type-size-5: 1.1em !default;
+$type-size-5: 1.1em !default; // main paragraph size
 $type-size-6: 0.8em !default;
 $type-size-7: 0.8em !default;
 $type-size-8: 0.625em !default;
 
-/* headline scale */
+/* Headline scale */
 $h-size-1: 1.563em !default;
 $h-size-2: 1.25em !default;
 $h-size-3: 1.125em !default;
@@ -29,31 +22,33 @@ $h-size-4: 1.0625em !default;
 $h-size-5: 1.03125em !default;
 $h-size-6: 1em !default;
 
+/* ---- Import the theme ---- */
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'dark' }}";
 @import "minimal-mistakes";
 
+/* ---- Global font-size adjustments (responsive) ---- */
 html {
-    font-size: 14px; // change to whatever
+  font-size: 14px; // Base font size (small screens)
 
-    @include breakpoint($medium) {
-      font-size: 16px; // change to whatever
-    }
-
-    @include breakpoint($large) {
-      font-size: 18px; // change to whatever
-    }
-
-    @include breakpoint($x-large) {
-      font-size: 20px; // change to whatever
-    }
+  @include breakpoint($medium) {
+    font-size: 16px; // Tablets and larger
   }
 
+  @include breakpoint($large) {
+    font-size: 18px; // Desktop screens
+  }
+
+  @include breakpoint($x-large) {
+    font-size: 20px; // Extra-large screens
+  }
+}
+
+/* ---- Justify main content and set page width ---- */
 .page__content {
   text-align: justify;
 }
-.page {
-  max-width: 1200px;  /* Adjust this value as you prefer */
-}
-.page__inner-wrap {
-  max-width: 1200px;  /* Keep same as above for consistency */
+
+.page__inner-wrap,
+.page__content {
+  max-width: 1000px !important;  /* Wider content area */
 }
