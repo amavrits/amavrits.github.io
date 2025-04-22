@@ -49,9 +49,14 @@ html {
 }
 
 .cv-page h2 {
-  color: magenta !important;
+  color: darkorchid !important;
 }
-
+.cv-page h3 {
+  color: darkorchid !important;  /* teal, for example */
+}
 .cv-page h4 {
   color: darkorchid !important;
+}
+.cv-page strong {
+  color: darkorchid !important;  /* hot pink, for example */
 }
