@@ -9,7 +9,7 @@ nav_order: 2
 
 # Antonis Mavritsakis
 
-✉️ [amavrits@gmail.com](mailto:amavrits@gmail.com) | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) [github.com/amavrits](https://github.com/amavrits) | 📍 Utrecht, The Netherlands
+✉️ [amavrits@gmail.com](mailto:amavrits@gmail.com) | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) [amavrits](https://github.com/amavrits) | 📍 Utrecht, The Netherlands
 
 ## Profile
 
@@ -19,22 +19,43 @@ Data scientist, risk analyst, and civil engineer with expertise in data and risk
 
 ## Work Experience
 
-| **Period**                         | **Position & Responsibilities**                                                                                   |
-|------------------------------------|------------------------------------------------------------------------------------------------------------------|
-| **May 2021 – Present**<br>**Deltares**              | **Researcher / Consultant – Risk and Reliability**<br>- Developed and applied regression models that reduced rail infrastructure risk exposure by 22%.<br>- Designed digital twins of two civil infrastructure assets for risk‑driven decision‑making.<br>- Led R&D on Gaussian Process Regression and Hierarchical Bayesian Modeling for geotechnical data analysis.<br>- Researched optimal construction planning via Bayesian, deep, and reinforcement learning.<br>- Supervised four MSc graduation theses; published in leading journals including ASCE and Nature. |
-| **Jan 2018 – April 2021**<br>**Royal HaskoningDHV** | **Geotechnical Risk Consultant**<br>- Established and applied a standard method for risk‑driven design of flood protection assets.<br>- Developed and applied a data analysis system for interpreting geotechnical monitoring data.<br>- Identified vulnerable infrastructure in Groningen via data visualization.<br>- Chaired the Engineering Risk and Reliability group at RHDHV. |
+### Researcher / Consultant – Risk and Reliability  
+**Deltares** *(May 2021 – Present)*  
+- Developed and applied regression models that reduced rail infrastructure risk exposure by 22%.
+- Designed digital twins of two civil infrastructure assets for risk‑driven decision‑making.
+- Led R&D on Gaussian Process Regression and Hierarchical Bayesian Modeling for geotechnical data analysis.
+- Researched optimal construction planning via Bayesian, deep, and reinforcement learning.
+- Supervised four MSc graduation theses; published in leading journals including ASCE and Nature.
+
+### Geotechnical Risk Consultant  
+**Royal HaskoningDHV** *(Jan 2018 – Apr 2021)*  
+- Established and applied a standard method for risk‑driven design of flood protection assets.
+- Developed and applied a data analysis system for interpreting geotechnical monitoring data.
+- Identified vulnerable infrastructure in Groningen via data visualization.
+- Chaired the Engineering Risk and Reliability group at RHDHV.
 
 ---
 
 ## Education
 
-| **Year**      | **Qualification & Institution**                                                                                             |
-|---------------|-----------------------------------------------------------------------------------------------------------------------------|
-| **2022 – 2024** | **MicroMaster in Statistics and Data Science**, MITx<br>Grade: A<br>Courses: Probability; Fundamentals of Statistics; Machine Learning with Python; Data Analysis: statistical modeling and computation in applications. |
-| **2015 – 2017** | **MSc in Civil Engineering**, TU Delft<br>Graduated cum laude; thesis nominated for the 2019 Keverling Buisman Young Talent Award. |
-| **2010 – 2015** | **Diploma in Civil Engineering**, National Technical University of Athens<br>Graduated within the top 5% of class.        |
+## Work Experience
+
+### MicroMaster in Statistics and Data Science
+**MITx** *(Jan 2022 – Apr 2024)*  
+- Grade: A
+- Courses: Probability, Fundamentals of Statistics, Machine Learning with Python,<br>Data Analysis: statistical modeling and computation in applications
+
+### MSc in Civil Engineering  
+**TU Delft** *(Sep 2015 – Oct 2017)*  
+- Graduated cum laude
+- Thesis nominated for the 2019 Keverling Buisman Young Talent Award.
+
+### Diploma in Civil Engineering  
+**National Technical University of Athens** *(Sep 2010 – Jul 2015)*  
+- Graduated within the top 5% of class.
 
 ---
+
 
 ## Technical Skills
 
@@ -45,6 +66,6 @@ Data scientist, risk analyst, and civil engineer with expertise in data and risk
 
 ## Additional Information
 
+- **Portfolio:** [Projects & Data Science Portfolio](/projects.md)
+- **Research:** [Publications & Research](/research.md)
 - **Languages:** Greek (native); English (proficient); German (elementary); Dutch (novice).
-- **Portfolio:** [Projects & Data Science Portfolio](https://drive.google.com/drive/u/1/folders/1XlFOH_LvjLewhe7-28c271fGDNg0bOr1)
-- **Research:** [Publications & Research](https://drive.google.com/drive/u/1/folders/1I0bPVKSetdSMh-3rwRK7Hb1SucbBghDT)
