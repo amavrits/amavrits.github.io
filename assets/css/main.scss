@@ -87,6 +87,16 @@ h1, h2, h3, h4, h5, h6 {
   padding: 0 0.75rem;
 }
 
+.page__content p {
+  font-size: 0.95em; /* default is ~1em */
+  line-height: 1.6;
+}
+
+.page__content strong {
+  font-size: 0.95em; /* reduce bold text size */
+  font-weight: 600;  /* optional: make it less heavy */
+}
+
 .cv-page h2 {
   border-bottom: none !important;
   padding-bottom: 0 !important;
@@ -105,27 +115,6 @@ h1, h2, h3, h4, h5, h6 {
   padding: 0 !important;
 }
 
-
-.page__content p {
-  font-size: 0.95em; /* default is ~1em */
-  line-height: 1.6;
+.cv-page.page__content {
+  margin: 0 auto !important;
 }
-
-.page__content strong {
-  font-size: 0.95em; /* reduce bold text size */
-  font-weight: 600;  /* optional: make it less heavy */
-}
-
-
-//.cv-page h2 {
-//  color: darkorchid !important;
-//}
-//.cv-page h3 {
-//  color: darkorchid !important;  /* teal, for example */
-//}
-//.cv-page h4 {
-//  color: darkorchid !important;
-//}
-//.cv-page strong {
-//  color: darkorchid !important;  /* hot pink, for example */
-//}
