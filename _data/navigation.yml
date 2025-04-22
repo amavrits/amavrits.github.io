@@ -1,6 +1,6 @@
 main:
-  - title: "Bio"
-    url: /bio/
+#  - title: "Bio"
+#    url: /bio/
   - title: "Resume"
     url: /cv/
   - title: "Projects"

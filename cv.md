@@ -3,7 +3,7 @@ layout: single
 classes: wide
 title: Resume
 permalink: /cv/
-nav_order: 2
+nav_order: 1
 ---
 
 # Antonis Mavritsakis
@@ -44,7 +44,7 @@ Data scientist, risk analyst, and civil engineer with expertise in data and risk
 ### MicroMaster in Statistics and Data Science  
 **MITx** *(2022 – 2024)*  
 - Grade: A  
-- Courses: Probability, Statistics, Machine Learning, Bayesian Data Analysis  
+- Courses: Probability, Statistics, Machine Learning, Data Analysis  
 
 ### MSc in Civil Engineering  
 **TU Delft** *(2015 – 2017)*  
@@ -72,6 +72,6 @@ Data scientist, risk analyst, and civil engineer with expertise in data and risk
 
 ## Additional Information
 
-- **Portfolio:** [Projects & Data Science Portfolio](/projects.md)  
-- **Research:** [Publications & Research](/research.md)
+- **[Portfolio →](/projects.md)**  
+- **[Research →](/research.md)**  
 

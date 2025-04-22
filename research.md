@@ -3,7 +3,7 @@ layout: single
 classes: wide
 title: "Research"
 permalink: /research/
-nav_order: 4
+nav_order: 3
 ---
 
 ## Publications
