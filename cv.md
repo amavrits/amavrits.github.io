@@ -16,37 +16,7 @@ Data scientist, risk analyst, and civil engineer with expertise in data and risk
 
 ---
 
-<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: flex-start; padding: 0 1rem;">
-
-<!-- Left column -->
-<div style="flex: 1; min-width: 250px;">
-
-## 🛠 Technical Skills
-
-### Disciplines
-- Frequentist & Bayesian statistics  
-- (Hierarchical) Bayesian Modeling  
-- (Generalized) Linear Modeling  
-- Gaussian Process Regression  
-- Dimensionality Reduction  
-- Mixture Modeling  
-- Machine Learning  
-- Deep Learning  
-- Reinforcement Learning  
-
-<br>
-
-### Programming
-- **Python:** NumPy, SciPy, scikit-learn, statsmodels, PyTorch, JAX, PyMC  
-- **Backend:** FastAPI, PySpark, Pandas, SQLite  
-- **Deployment:** Docker, Git, bash
-
-</div>
-
-<!-- Right column -->
-<div style="flex: 2; min-width: 300px;">
-
-## 💼 Work Experience
+## Work Experience
 
 ### Researcher - Data Science and AI  
 **Self-employed** *(Jan 2023 – Present)*  
@@ -69,7 +39,7 @@ Data scientist, risk analyst, and civil engineer with expertise in data and risk
 
 ---
 
-## 🎓 Education
+## Education
 
 ### MicroMaster in Statistics and Data Science  
 **MITx** *(2022 – 2024)*  
@@ -87,7 +57,28 @@ Data scientist, risk analyst, and civil engineer with expertise in data and risk
 
 ---
 
+## Technical Skills
+
+### Disciplines
+- Frequentist & Bayesian statistics  
+- (Hierarchical) Bayesian Modeling  
+- (Generalized) Linear Modeling  
+- Gaussian Process Regression  
+- Dimensionality Reduction  
+- Mixture Modeling  
+- Machine Learning  
+- Deep Learning  
+- Reinforcement Learning  
+
+### Programming
+- **Python:** NumPy, SciPy, scikit-learn, statsmodels, PyTorch, JAX, PyMC  
+- **Backend:** FastAPI, PySpark, Pandas, SQLite  
+- **Deployment:** Docker, Git, bash
+
+---
+
 ## 📌 Additional Information
 
 - **Portfolio:** [Projects & Data Science Portfolio](/projects.md)  
 - **Research:** [Publications & Research](/research.md)
+
