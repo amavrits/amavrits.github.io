@@ -8,7 +8,8 @@ nav_order: 1
 
 # Antonis Mavritsakis
 
-✉️ [amavrits@gmail.com](mailto:amavrits@gmail.com) | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) [amavrits](https://github.com/amavrits) | 📍 Utrecht, The Netherlands
+✉️ [amavrits@gmail.com](mailto:amavrits@gmail.com) | ![GitHub](https://i.sstatic.net/tskMh.png) [amavrits](https://github.com/amavrits) | ![Linkedin](https://i.sstatic.net/gVE0j.png) [LinkedIn](https://www.linkedin.com/in/antonis-mavritsakis/) | 📍 Utrecht, The Netherlands
+
 
 ## Profile
 
