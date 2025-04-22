@@ -47,3 +47,11 @@ html {
 .page__content {
   text-align: justify;
 }
+
+.page-cv h2 {
+  color: magenta !important; /* Change h2 titles on the CV page */
+}
+
+.page-cv h4 {
+  color: darkorchid !important; /* Change h4 subtitles on the CV page */
+}
