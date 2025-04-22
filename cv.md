@@ -17,11 +17,8 @@ nav_order: 1
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" style="vertical-align: middle; margin-right: 4px;" />
   LinkedIn
 </a> | 
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#ccc" viewBox="0 0 16 16" style="vertical-align: middle; margin-right: 4px;">
-  <path d="M8 16s6-5.686 6-10A6 6 0 0 0 2 6c0 4.314 6 10 6 10zm0-7a3 3 0 1 1 0-6 3 3 0 0 1 0 6z"/>
-</svg>
-<span class="white-link" style="vertical-align: middle;">Utrecht, NL</span>
-
+<img src="https://img.icons8.com/ios-filled/50/ffffff/marker.png" width="16" style="vertical-align: middle; margin-right: 4px;" />
+<span class="white-link" style="vertical-align: middle;">Utrecht, NK</span>
 
 ## Profile
 Data scientist, risk analyst, and civil engineer with expertise in data and risk analysis for infrastructure asset management. With a background in both consulting and research, I excel in developing innovative solutions for complex decision‑making challenges. As a curious and adaptable professional, I thrive in collaborative environments and achieve impactful results.
