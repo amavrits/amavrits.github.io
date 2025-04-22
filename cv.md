@@ -1,8 +1,8 @@
 ---
 layout: single
-classes: wide
 title: Resume
 permalink: /cv/
+classes: cv-page
 nav_order: 1
 ---
 
