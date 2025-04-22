@@ -39,7 +39,7 @@ html {
   }
 
   @include breakpoint($x-large) {
-    font-size: 20px; // Extra-large screens
+    font-size: 14px; // Extra-large screens
   }
 }
 
@@ -49,7 +49,8 @@ body {
 }
 
 a {
-  color: #d1ac24 !important; /* Optional: links */
+  //color: #d1ac24 !important; /* Optional: links */
+  color: #9c27c2 !important; /* Optional: links */
 }
 
 h1, h2, h3, h4, h5, h6 {
