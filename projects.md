@@ -8,8 +8,8 @@ nav_order: 2
 My portfolio of Data Science projects, ML implementations and Python developments.
 
 ## Data Science projects
-- <a href="/projects/blackjack-drl/" class="gold-link">Blackjack with DRL</a>
-- <a href="/projects/reddit-sentiment/" class="gold-link">Reddit Sentiment Analysis</a>
+- <a href="/projects/blackjack-drl/" class="white-link">Blackjack with DRL</a>
+- <a href="/projects/reddit-sentiment/" class="white-link">Reddit Sentiment Analysis</a>
 
 ## Data Science civil engineering projects
 - <a href="/projects/optimization-quay-wall-rl/" class="white-link">Port Asset Optimization via RL</a>

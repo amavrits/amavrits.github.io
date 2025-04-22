@@ -8,13 +8,13 @@ nav_order: 1
 
 # Antonis Mavritsakis
 
-✉️ [amavrits@gmail.com](mailto:amavrits@gmail.com) |
+✉️ <a href="mailto:amavrits@gmail.com" class="white-link">amavrits@gmail.com</a> |
 <a href="https://github.com/amavrits" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" style="vertical-align: middle; margin-right: 4px;" />
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" class="white-link" width="20" style="vertical-align: middle; margin-right: 4px;" />
   amavrits
 </a> |
 <a href="https://linkedin.com/in/antonis-mavritsakis" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" style="vertical-align: middle;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" class="white-link" width="20" style="vertical-align: middle;" />
   LinkedIn
 </a>
 📍 Utrecht, NL
@@ -73,6 +73,6 @@ Data scientist, risk analyst, and civil engineer with expertise in data and risk
 
 ## Additional Information
 
-- <a href="/projects/" class="gold-link">**Portfolio →**</a>
-- <a href="/research/" class="gold-link">**Research →**</a>
+- <a href="/projects/" class="white-link">**Portfolio →**</a>
+- <a href="/research/" class="white-link">**Research →**</a>
 
