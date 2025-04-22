@@ -9,14 +9,10 @@ nav_order: 1
 # Antonis Mavritsakis
 
 ✉️ <a href="mailto:amavrits@gmail.com" class="white-link">amavrits@gmail.com</a> | 
-<a href="https://github.com/amavrits"  class="white-link" target="_blank">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20" style="vertical-align: middle; margin-right: 4px;" />
-  amavrits
-</a> | 
-<a href="https://linkedin.com/in/antonis-mavritsakis" class="white-link" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" style="vertical-align: middle; margin-right: 4px;" />
-  LinkedIn
-</a> | 
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20" style="vertical-align: middle; margin-right: 4px;" />
+[amavrits](https://github.com/amavrits) | 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" style="vertical-align: middle; margin-right: 4px;" />
+[LinkedIn](https://github.com/https://linkedin.com/in/antonis-mavritsakis) | 
 <img src="https://img.icons8.com/ios-filled/50/ffffff/marker.png" width="16" style="vertical-align: middle; margin-right: 4px;" />
 <span class="white-link" style="vertical-align: middle;">Utrecht, NL</span>
 
