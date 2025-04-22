@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: wide
 title: “Bio”
 permalink: /bio/
 nav_order: 1

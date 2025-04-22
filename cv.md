@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide
-title: Curriculum Vitae
+title: Resume
 permalink: /cv/
 nav_order: 2
 ---
@@ -9,7 +9,10 @@ nav_order: 2
 
 # Antonis Mavritsakis
 
-✉️ [amavrits@gmail.com](mailto:amavrits@gmail.com) | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) [amavrits](https://github.com/amavrits) | 📍 Utrecht, The Netherlands
+<div style="max-width: 100%; width: 100%; padding: 0 2rem;">
+
+
+✉️ [amavrits@gmail.com](mailto:amavrits@gmail.com) | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) [amavrits](https://github.com/amavrits) | 📍 Utrecht, The Netherlands
 
 ## Profile
 
@@ -17,7 +20,39 @@ Data scientist, risk analyst, and civil engineer with expertise in data and risk
 
 ---
 
+<div style="display: flex; gap: 2rem;">
+
+<div style="flex: 1; min-width: 100px;">
+
+## Technical Skills
+
+### Disciplines:
+- Frequentist & Bayesian statistics
+- (Hierarchical) Bayesian Modeling
+- (Generalized) Linear Modeling
+- Gaussian Process Regression
+- Dimensionality Reduction.
+- Mixture Modeling
+- Machine Learning
+- Deep Learning
+- Reinforcement Learning
+
+### Programming:
+- Python: NumPy, SciPy, scikit‑learn, statsmodels, PyTorch, JAX, PyMC
+- Backend: FastAPI, PySpark, Pandas, SQLite
+- Deployment: Docker, Git, bash
+
+</div>
+
+<div style="flex: 2;">
+
 ## Work Experience
+
+### Researcher - Data Science and AI
+**Self-employed** *(Jan 2023 - Present)*
+- Developed [JAXAgents](https://github.com/amavrits/jax-agents), a Python package for optimized training of (Multi-Agent) Reinforcement Learning agents.
+- Developed and trained Multi-Agent Reinforcement Learning for a game and deployed online for competition against human players.
+- Applied Reinforcement Learning through Human Feedback (RLHF) using data collected from the deployed online game for improving the behavior of trained agents. 
 
 ### Researcher / Consultant – Risk and Reliability  
 **Deltares** *(May 2021 – Present)*  
@@ -36,9 +71,8 @@ Data scientist, risk analyst, and civil engineer with expertise in data and risk
 
 ---
 
-## Education
 
-## Work Experience
+## Education
 
 ### MicroMaster in Statistics and Data Science
 **MITx** *(Jan 2022 – Apr 2024)*  
@@ -52,15 +86,19 @@ Data scientist, risk analyst, and civil engineer with expertise in data and risk
 
 ### Diploma in Civil Engineering  
 **National Technical University of Athens** *(Sep 2010 – Jul 2015)*  
-- Graduated within the top 5% of class.
-
----
+- Graduated within the top 5% of the class.
 
 
-## Technical Skills
+</div>
 
-- **Disciplines:** Frequentist & Bayesian statistics; Deep Learning; (Generalized) Linear Modeling; Gaussian Process Regression; Hierarchical Bayesian Modeling; Gaussian Mixture Modeling; Reinforcement Learning; Hypothesis Testing; Bootstrapping; Dimensionality Reduction.
-- **Programming:** Python (NumPy, SciPy, scikit‑learn, statsmodels, PyTorch, JAX, PyMC); R; Git.
+</div>
+
+
+[//]: # (## Technical Skills)
+[//]: # ()
+[//]: # (- **Disciplines:** Frequentist & Bayesian statistics; Deep Learning; &#40;Generalized&#41; Linear Modeling; Gaussian Process Regression; Hierarchical Bayesian Modeling; Gaussian Mixture Modeling; Reinforcement Learning; Hypothesis Testing; Bootstrapping; Dimensionality Reduction.)
+
+[//]: # (- **Programming:** Python &#40;NumPy, SciPy, scikit‑learn, statsmodels, PyTorch, JAX, PyMC&#41;; R; Git.)
 
 ---
 
@@ -69,3 +107,5 @@ Data scientist, risk analyst, and civil engineer with expertise in data and risk
 - **Portfolio:** [Projects & Data Science Portfolio](/projects.md)
 - **Research:** [Publications & Research](/research.md)
 - **Languages:** Greek (native); English (proficient); German (elementary); Dutch (novice).
+
+<div>
