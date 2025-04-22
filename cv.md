@@ -10,9 +10,9 @@ nav_order: 1
 
 ✉️ <a href="mailto:amavrits@gmail.com" class="white-link">amavrits@gmail.com</a> | 
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20" style="vertical-align: middle; margin-right: 4px;" />
-[amavrits](https://github.com/amavrits) | 
+<a href="https://github.com/amavrits" class="white-link">amavrits</a>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" style="vertical-align: middle; margin-right: 4px;" />
-[LinkedIn](https://github.com/https://linkedin.com/in/antonis-mavritsakis) | 
+<a href="https://github.com/https://linkedin.com/in/antonis-mavritsakis" class="white-link">LinkedIn</a>
 <img src="https://img.icons8.com/ios-filled/50/ffffff/marker.png" width="16" style="vertical-align: middle; margin-right: 4px;" />
 <span class="white-link" style="vertical-align: middle;">Utrecht, NL</span>
 
