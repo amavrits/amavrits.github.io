@@ -49,7 +49,7 @@ body {
 }
 
 a {
-  color: #9c27c2 !important; /* Optional: links */
+  color: goldenrod !important; /* Optional: links */
 }
 
 a.gold-link {
@@ -74,6 +74,12 @@ h1, h2, h3, h4, h5, h6 {
 .site-footer {
   background-color: #111 !important;
   color: #eee !important;
+}
+
+.cv-page h2 {
+  border-bottom: none !important;
+  padding-bottom: 0 !important;
+  margin-bottom: 1rem; /* Optional: add spacing if needed */
 }
 
 //.cv-page h2 {
