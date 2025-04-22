@@ -1,6 +1,5 @@
 ---
 layout: single
-classes: wide
 title: "Research"
 permalink: /research/
 nav_order: 3
