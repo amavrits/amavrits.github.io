@@ -69,11 +69,22 @@ h1, h2, h3, h4, h5, h6 {
   text-align: justify;
 }
 
+.page__title {
+  color: #9c27c2 !important;
+}
+
 .site-header,
 .masthead,
 .site-footer {
   background-color: #111 !important;
   color: #eee !important;
+}
+
+/* Increase nav link font size globally */
+.masthead__menu-item a {
+  font-size: 1.1em !important; /* or use 18px */
+  font-weight: 500;
+  padding: 0 0.75rem;
 }
 
 .cv-page h2 {
@@ -83,7 +94,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .cv-page .page__inner-wrap {
-  max-width: 2000px !important;
+  max-width: 1100px !important;
+  padding-left: 2rem;
+  padding-right: 2rem;
 }
 
 .page__content p {
@@ -95,6 +108,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 0.95em; /* reduce bold text size */
   font-weight: 600;  /* optional: make it less heavy */
 }
+
 
 //.cv-page h2 {
 //  color: darkorchid !important;

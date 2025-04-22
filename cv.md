@@ -18,7 +18,9 @@ nav_order: 1
   LinkedIn
 </a> | 
 <img src="https://img.icons8.com/ios-filled/50/ffffff/marker.png" width="16" style="vertical-align: middle; margin-right: 4px;" />
-<span class="white-link" style="vertical-align: middle;">Utrecht, NK</span>
+<span class="white-link" style="vertical-align: middle;">Utrecht, NL</span>
+
+---
 
 ## Profile
 Data scientist, risk analyst, and civil engineer with expertise in data and risk analysis for infrastructure asset management. With a background in both consulting and research, I excel in developing innovative solutions for complex decision‑making challenges. As a curious and adaptable professional, I thrive in collaborative environments and achieve impactful results.
