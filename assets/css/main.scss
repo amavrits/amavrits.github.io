@@ -35,7 +35,7 @@ html {
   }
 
   @include breakpoint($large) {
-    font-size: 18px; // Desktop screens
+    font-size: 14px; // Desktop screens
   }
 
   @include breakpoint($x-large) {
@@ -49,7 +49,7 @@ body {
 }
 
 a {
-  color: #d1ac24 !important; /* Optional: teal-blue links */
+  color: #d1ac24 !important; /* Optional: links */
 }
 
 h1, h2, h3, h4, h5, h6 {

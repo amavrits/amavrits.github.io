@@ -8,11 +8,19 @@ nav_order: 1
 
 # Antonis Mavritsakis
 
-✉️ [amavrits@gmail.com](mailto:amavrits@gmail.com) | ![GitHub](https://i.sstatic.net/tskMh.png) [amavrits](https://github.com/amavrits) | ![Linkedin](https://i.sstatic.net/gVE0j.png) [LinkedIn](https://www.linkedin.com/in/antonis-mavritsakis/) | 📍 Utrecht, The Netherlands
+✉️ [amavrits@gmail.com](mailto:amavrits@gmail.com) |
+<a href="https://github.com/amavrits" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" style="vertical-align: middle; margin-right: 4px;" />
+  amavrits
+</a> |
+<a href="https://linkedin.com/in/antonis-mavritsakis" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" style="vertical-align: middle;" />
+  LinkedIn
+</a>
+📍 Utrecht, NL
 
 
 ## Profile
-
 Data scientist, risk analyst, and civil engineer with expertise in data and risk analysis for infrastructure asset management. With a background in both consulting and research, I excel in developing innovative solutions for complex decision‑making challenges. As a curious and adaptable professional, I thrive in collaborative environments and achieve impactful results.
 
 ---
@@ -43,28 +51,20 @@ Data scientist, risk analyst, and civil engineer with expertise in data and risk
 ## Education
 
 ### MicroMaster in Statistics and Data Science  
-**MITx** *(2022 – 2024)*  
-- Grade: A  
-- Courses: Probability, Statistics, Machine Learning, Data Analysis  
+**MITx** *(2022 – 2024)* - Grade: A  
 
 ### MSc in Civil Engineering  
-**TU Delft** *(2015 – 2017)*  
-- Graduated cum laude  
-- Thesis nominated for 2019 Keverling Buisman Award  
+**TU Delft** *(2015 – 2017)* - Graduated cum laude  
 
 ### Diploma in Civil Engineering  
-**National Technical University of Athens** *(2010 – 2015)*  
-- Graduated top 5% of class  
+**National Technical University of Athens** *(2010 – 2015)* - Graduated top 5% of class  
 
 ---
 
 ## Technical Skills
 
-### Disciplines
 - **Statistics**: Frequentist & (Hierarchical) Bayesian Modeling, (Generalized) Linear Modeling, Gaussian Process Regression, Mixture Modeling
 - **Machine Learning**: Deep Learning, Reinforcement Learning, Dimensionality Reduction  
-
-### Programming
 - **Python:** NumPy, SciPy, scikit-learn, statsmodels, PyTorch, JAX, PyMC  
 - **Backend:** FastAPI, PySpark, Pandas, SQLite, ML model inference 
 - **Deployment:** Docker, Git, bash
