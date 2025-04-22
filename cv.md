@@ -6,11 +6,7 @@ permalink: /cv/
 nav_order: 2
 ---
 
-
 # Antonis Mavritsakis
-
-<div style="max-width: 100%; width: 100%; padding: 0 2rem;">
-
 
 ✉️ [amavrits@gmail.com](mailto:amavrits@gmail.com) | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) [amavrits](https://github.com/amavrits) | 📍 Utrecht, The Netherlands
 
@@ -20,92 +16,78 @@ Data scientist, risk analyst, and civil engineer with expertise in data and risk
 
 ---
 
-<div style="display: flex; gap: 2rem;">
+<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: flex-start; padding: 0 1rem;">
 
-<div style="flex: 1; min-width: 100px;">
+<!-- Left column -->
+<div style="flex: 1; min-width: 250px;">
 
-## Technical Skills
+## 🛠 Technical Skills
 
-### Disciplines:
-- Frequentist & Bayesian statistics
-- (Hierarchical) Bayesian Modeling
-- (Generalized) Linear Modeling
-- Gaussian Process Regression
-- Dimensionality Reduction.
-- Mixture Modeling
-- Machine Learning
-- Deep Learning
-- Reinforcement Learning
+### Disciplines
+- Frequentist & Bayesian statistics  
+- (Hierarchical) Bayesian Modeling  
+- (Generalized) Linear Modeling  
+- Gaussian Process Regression  
+- Dimensionality Reduction  
+- Mixture Modeling  
+- Machine Learning  
+- Deep Learning  
+- Reinforcement Learning  
 
-### Programming:
-- Python: NumPy, SciPy, scikit‑learn, statsmodels, PyTorch, JAX, PyMC
-- Backend: FastAPI, PySpark, Pandas, SQLite
-- Deployment: Docker, Git, bash
+<br>
+
+### Programming
+- **Python:** NumPy, SciPy, scikit-learn, statsmodels, PyTorch, JAX, PyMC  
+- **Backend:** FastAPI, PySpark, Pandas, SQLite  
+- **Deployment:** Docker, Git, bash
 
 </div>
 
-<div style="flex: 2;">
+<!-- Right column -->
+<div style="flex: 2; min-width: 300px;">
 
-## Work Experience
+## 💼 Work Experience
 
-### Researcher - Data Science and AI
-**Self-employed** *(Jan 2023 - Present)*
-- Developed [JAXAgents](https://github.com/amavrits/jax-agents), a Python package for optimized training of (Multi-Agent) Reinforcement Learning agents.
-- Developed and trained Multi-Agent Reinforcement Learning for a game and deployed online for competition against human players.
-- Applied Reinforcement Learning through Human Feedback (RLHF) using data collected from the deployed online game for improving the behavior of trained agents. 
+### Researcher - Data Science and AI  
+**Self-employed** *(Jan 2023 – Present)*  
+- Developed [JAXAgents](https://github.com/amavrits/jax-agents), a Python package for optimized training of (Multi-Agent) Reinforcement Learning agents.  
+- Trained Multi-Agent RL agents and deployed online for human–agent competition.  
+- Applied Reinforcement Learning through Human Feedback (RLHF) using human gameplay data.  
 
 ### Researcher / Consultant – Risk and Reliability  
 **Deltares** *(May 2021 – Present)*  
-- Developed and applied regression models that reduced rail infrastructure risk exposure by 22%.
-- Designed digital twins of two civil infrastructure assets for risk‑driven decision‑making.
-- Led R&D on Gaussian Process Regression and Hierarchical Bayesian Modeling for geotechnical data analysis.
-- Researched optimal construction planning via Bayesian, deep, and reinforcement learning.
-- Supervised four MSc graduation theses; published in leading journals including ASCE and Nature.
+- Built regression models reducing infrastructure risk exposure by 22%.  
+- Designed digital twins of civil assets for risk-driven decisions.  
+- Led R&D in GPR and Bayesian modeling for geotechnical analysis.  
+- Supervised MSc theses; published in ASCE and Nature.  
 
 ### Geotechnical Risk Consultant  
 **Royal HaskoningDHV** *(Jan 2018 – Apr 2021)*  
-- Established and applied a standard method for risk‑driven design of flood protection assets.
-- Developed and applied a data analysis system for interpreting geotechnical monitoring data.
-- Identified vulnerable infrastructure in Groningen via data visualization.
-- Chaired the Engineering Risk and Reliability group at RHDHV.
+- Standardized risk-based design for flood protection systems.  
+- Created analytics platform for geotechnical monitoring data.  
+- Chaired the Engineering Risk and Reliability group.  
 
 ---
 
+## 🎓 Education
 
-## Education
-
-### MicroMaster in Statistics and Data Science
-**MITx** *(Jan 2022 – Apr 2024)*  
-- Grade: A
-- Courses: Probability, Fundamentals of Statistics, Machine Learning with Python,<br>Data Analysis: statistical modeling and computation in applications
+### MicroMaster in Statistics and Data Science  
+**MITx** *(2022 – 2024)*  
+- Grade: A  
+- Courses: Probability, Statistics, Machine Learning, Bayesian Data Analysis  
 
 ### MSc in Civil Engineering  
-**TU Delft** *(Sep 2015 – Oct 2017)*  
-- Graduated cum laude
-- Thesis nominated for the 2019 Keverling Buisman Young Talent Award.
+**TU Delft** *(2015 – 2017)*  
+- Graduated cum laude  
+- Thesis nominated for 2019 Keverling Buisman Award  
 
 ### Diploma in Civil Engineering  
-**National Technical University of Athens** *(Sep 2010 – Jul 2015)*  
-- Graduated within the top 5% of the class.
-
-
-</div>
-
-</div>
-
-
-[//]: # (## Technical Skills)
-[//]: # ()
-[//]: # (- **Disciplines:** Frequentist & Bayesian statistics; Deep Learning; &#40;Generalized&#41; Linear Modeling; Gaussian Process Regression; Hierarchical Bayesian Modeling; Gaussian Mixture Modeling; Reinforcement Learning; Hypothesis Testing; Bootstrapping; Dimensionality Reduction.)
-
-[//]: # (- **Programming:** Python &#40;NumPy, SciPy, scikit‑learn, statsmodels, PyTorch, JAX, PyMC&#41;; R; Git.)
+**National Technical University of Athens** *(2010 – 2015)*  
+- Graduated top 5% of class  
 
 ---
 
-## Additional Information
+## 📌 Additional Information
 
-- **Portfolio:** [Projects & Data Science Portfolio](/projects.md)
+- **Portfolio:** [Projects & Data Science Portfolio](/projects.md)  
 - **Research:** [Publications & Research](/research.md)
-- **Languages:** Greek (native); English (proficient); German (elementary); Dutch (novice).
-
-<div>

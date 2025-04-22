@@ -6,7 +6,7 @@ permalink: /research/
 nav_order: 4
 ---
 
-## Research Publications
+## Publications
 
 - **Bayesian analysis of benchmark examples for data-driven site characterization**  
   *ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems,<br>Part A: Civil Engineering, 2023*  
