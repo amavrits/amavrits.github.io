@@ -3,6 +3,7 @@ layout: single
 title: Welcome!
 show_title: false
 permalink: /
+classes: home-page
 ---
 
 # Hi, I’m Antonis Mavritsakis.
