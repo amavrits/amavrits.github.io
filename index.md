@@ -1,8 +1,7 @@
 ---
 layout: single
 title: Welcome!
-header:
-  title: false
+show_title: false
 permalink: /
 ---
 
@@ -16,7 +15,7 @@ I'm a data scientist, risk analyst, and civil engineer based in Utrecht, The Net
 - 📄 [CV](/cv/) — My experience and background  
 - ⚙️ [Projects](/projects/) — What I’ve been building  
 - 📚 [Research](/research/) — Publications and academic work
-- 📬 Connect via [email](mailto:amavrits@gmail.com) or on 
+- 📬 Connect via [email](mailto:amavrits.upwork@gmail.com) or on 
   <a href="https://github.com/amavrits">Github</a> and
   <a href="https://linkedin.com/in/antonis-mavritsakis">LinkedIn</a>
 

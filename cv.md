@@ -8,7 +8,7 @@ nav_order: 1
 
 # Antonis Mavritsakis
 
-✉️ <a href="mailto:amavrits@gmail.com" class="white-link">amavrits@gmail.com</a> | 
+✉️ <a href="mailto:amavrits@gmail.com" class="white-link">amavrits.upwork@gmail.com</a> | 
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20" style="vertical-align: middle; margin-right: 4px;" />
 <a href="https://github.com/amavrits" class="white-link">amavrits</a>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" style="vertical-align: middle; margin-right: 4px;" />
