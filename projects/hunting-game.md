@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Hunting Game – A Web-Based Prey-Predator AI Experience"
-permalink: /hunting-game/
+permalink: /projects/hunting-game/
 ---
 
 Welcome to the **Hunting Game**, an interactive single-player game where you play as the prey or predator against trained AI agents!
