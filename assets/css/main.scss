@@ -130,7 +130,11 @@ h1, h2, h3, h4, h5, h6 {
   border-right: 2px solid #fff;
   white-space: nowrap;
   width: 0;
-  animation: typing 4s steps(40, end) forwards, blink 0.8s infinite;
+  color: goldenrod;
+  animation:
+    typing 3.5s steps(40, end) forwards,
+    blink 0.8s step-end 3.5s 1 forwards; /* blink stops with typing */
+  animation-fill-mode: forwards;
 }
 
 @keyframes typing {

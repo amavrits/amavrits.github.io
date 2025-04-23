@@ -16,7 +16,7 @@ I'm a data scientist, risk analyst, and civil engineer based in Utrecht, The Net
 - 📚 [Research](/research/) — Publications and academic work
 - 📬 Connect via [email](mailto:amavrits@gmail.com) or on 
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20" style="vertical-align: middle; margin-right: 4px;" />
-  <a href="https://github.com/amavrits" class="white-link">Github</a> and
+  <a href="https://github.com/amavrits">Github</a> and
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" style="vertical-align: middle; margin-right: 4px;" />
-  <a href="https://linkedin.com/in/antonis-mavritsakis" class="white-link">LinkedIn</a>
+  <a href="https://linkedin.com/in/antonis-mavritsakis">LinkedIn</a>
 
