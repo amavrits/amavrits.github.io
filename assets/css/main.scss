@@ -64,6 +64,17 @@ h1, h2, h3, h4, h5, h6 {
   color: #9c27c2 !important;
 }
 
+.page .page__header .page__title,
+.page .page__title,
+.page__header h1.page__title {
+  color: #9c27c2 !important;
+}
+
+.page__title,
+.page__title a {
+  color: #9c27c2 !important;
+}
+
 /* ---- Justify main content and set page width ---- */
 .page__content {
   text-align: justify;
@@ -143,8 +154,3 @@ h1, h2, h3, h4, h5, h6 {
   50% { border-color: #fff }
 }
 
-.page .page__header .page__title,
-.page .page__title,
-.page__header h1.page__title {
-  color: #9c27c2 !important;
-}
