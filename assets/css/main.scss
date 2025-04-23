@@ -69,15 +69,6 @@ h1, h2, h3, h4, h5, h6 {
   text-align: justify;
 }
 
-.page .page__title {
-  color: #9c27c2 !important;
-}
-
-.page__header h1.page__title {
-  color: #9c27c2 !important;
-  background: transparent !important;
-}
-
 .site-header,
 .masthead,
 .site-footer {
@@ -151,3 +142,13 @@ h1, h2, h3, h4, h5, h6 {
   0%, 100% { border-color: transparent }
   50% { border-color: #fff }
 }
+
+.page .page__title {
+  color: #9c27c2 !important;
+}
+
+.page__header h1.page__title {
+  color: #9c27c2 !important;
+  background: transparent !important;
+}
+
