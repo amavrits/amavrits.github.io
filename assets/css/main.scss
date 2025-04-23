@@ -143,8 +143,8 @@ h1, h2, h3, h4, h5, h6 {
   50% { border-color: #fff }
 }
 
-.page__header .page__title,
-h1.page__title {
+.page .page__header .page__title,
+.page .page__title,
+.page__header h1.page__title {
   color: #9c27c2 !important;
-  font-weight: 600;
 }
