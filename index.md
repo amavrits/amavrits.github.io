@@ -1,6 +1,8 @@
 ---
 layout: single
 title: Welcome!
+header:
+  title: false
 permalink: /
 ---
 
