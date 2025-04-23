@@ -127,13 +127,13 @@ h1, h2, h3, h4, h5, h6 {
 
 .typewriter {
   overflow: hidden;
-  border-right: 2px solid #fff;
+  border-right: 2px solid goldenrod;
   white-space: nowrap;
   width: 0;
-  color: goldenrod;
+  color: goldenrod !important;  /* <- force override */
   animation:
     typing 3.5s steps(40, end) forwards,
-    blink 0.8s step-end 3.5s 1 forwards; /* blink stops with typing */
+    blink 0.8s step-end 3.5s 1 forwards;
   animation-fill-mode: forwards;
 }
 
