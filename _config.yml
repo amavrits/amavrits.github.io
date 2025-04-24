@@ -17,3 +17,5 @@ nav:
     url:   /projects/
   - title: "Research"
     url: /research/
+
+<link rel="stylesheet" href="{{ '/assets/css/avatar.css' | relative_url }}">
