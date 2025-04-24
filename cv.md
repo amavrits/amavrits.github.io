@@ -62,7 +62,7 @@ Data scientist, risk analyst, and civil engineer with expertise in data and risk
 ## Technical Skills
 
 - **Statistics**: Frequentist & (Hierarchical) Bayesian Modeling, (Generalized) Linear Modeling, Gaussian Process Regression, Mixture Modeling
-- **Machine Learning**: Deep Learning, Reinforcement Learning, Dimensionality Reduction  
+- **Machine Learning**: Deep Learning, Reinforcement Learning, Clustering, Dimensionality Reduction  
 - **Python:** NumPy, SciPy, scikit-learn, statsmodels, PyTorch, JAX, PyMC  
 - **Backend:** FastAPI, PySpark, Pandas, SQLite, ML model inference 
 - **Deployment:** Docker, Git, bash, MLOps, CI/CD
