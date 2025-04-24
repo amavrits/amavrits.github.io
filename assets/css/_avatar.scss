@@ -1,0 +1,16 @@
+/* GitHub avatar in the corner */
+.github-avatar {
+  position: fixed;
+  top: 1rem;
+  right: 1rem;      // change to left: 1rem; if you prefer
+  width: 72px;
+  height: 72px;
+  border-radius: 50%;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, .15);
+  object-fit: cover;
+  transition: transform .15s ease;
+
+  &:hover {
+    transform: scale(1.06);
+  }
+}
