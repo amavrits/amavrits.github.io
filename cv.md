@@ -31,7 +31,7 @@ Data scientist, risk analyst, and civil engineer with expertise in data and risk
 - Trained Multi-Agent RL agents and deployed in an online game for human–agent competition.  
 - Applied Reinforcement Learning through Human Feedback (RLHF) using human gameplay data.
 - Predicted stock prices based on sentiment recognition in r/wallstreetbets using Deep Learning.
-- Derived strategy for beating Blackjack using Deep Reinforcement Learning.
+- Derived a winning strategy for beating Blackjack using Deep Reinforcement Learning.
 
 ### Researcher / Consultant – Risk and Reliability  
 **Deltares** *(May 2021 – Present)*  
