@@ -15,7 +15,7 @@ This project showcases the power of **Multi-Agent Reinforcement Learning (MARL)*
 
 ## 🎮 Gameplay Features
 
-- 🧠 **Smart AI agents** trained with JAX, Flax, and Optax  
+- 🧠 **Smart AI agents** trained with [JAXAgents](https://github.com/amavrits/jax-agents), JAX, Flax, and Optax  
 - 🎭 **Play as prey or predator** with unique strategies  
 - 🕹️ **Cross-platform controls**: keyboard (desktop) or on-screen joystick (mobile)  
 - 🌐 **Browser-based** — no installation required  
