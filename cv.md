@@ -29,7 +29,9 @@ Data scientist, risk analyst, and civil engineer with expertise in data and risk
 **Self-employed** *(Jan 2023 – Present)*  
 - Developed <a href="https://github.com/amavrits/jax-agents" class="gold-link">JAXAgents</a>, a Python package for optimized training of (Multi-Agent) Reinforcement Learning agents.  
 - Trained Multi-Agent RL agents and deployed online for human–agent competition.  
-- Applied Reinforcement Learning through Human Feedback (RLHF) using human gameplay data.  
+- Applied Reinforcement Learning through Human Feedback (RLHF) using human gameplay data.
+- Stock prediction via sentiment recognition in r/wallstreetbets using Deep Learning.
+- Beating Blackjack using Deep Reinforcement Learning.
 
 ### Researcher / Consultant – Risk and Reliability  
 **Deltares** *(May 2021 – Present)*  
