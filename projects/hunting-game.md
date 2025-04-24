@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Hunting Game – A Web-Based Prey-Predator AI Experience"
+title: "Hunting Game – A Web-Based Prey-Predator AI Experience powered via Multi-Agent Reinforcement Learning"
 permalink: /projects/hunting-game/
 ---
 
@@ -11,7 +11,7 @@ This project showcases the power of **Multi-Agent Reinforcement Learning (MARL)*
 <p align="center">
   <img src="/assets/hunting_game_v1.gif" alt="Hunting Game animation" />
 </p>
----
+
 
 ## 🎮 Gameplay Features
 
