@@ -8,7 +8,7 @@ nav_order: 2
 My portfolio of Data Science projects, ML implementations and Python developments.
 
 ## Data Science projects
-- <a href="/projects/hunting-game/" class="white-link">Hunting Game</a>
+- <a href="/projects/hunting-game/" class="white-link">Hunting Game – A Web-Based Prey-Predator AI Experience powered via Multi-Agent Reinforcement Learning</a>
 - <a href="/projects/blackjack-drl/" class="white-link">Blackjack with DRL</a>
 - <a href="/projects/reddit-sentiment/" class="white-link">Reddit Sentiment Analysis</a>
 
