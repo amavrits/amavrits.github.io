@@ -158,14 +158,19 @@ h1, h2, h3, h4, h5, h6 {
   50% { border-color: #fff }
 }
 
-.projects .page-title a,
-.projects .page-title a:visited {
+.page__title {
   color: #9c27c2;
-  text-decoration: none;  /* if you also want to remove the underline */
 }
 
-.projects .page-title a:hover,
-.projects .page-title a:active {
-  /* optional hover/active styles */
-  color: #9c27c2;
+/* 2) Force any link inside the title to inherit that purple */
+.page__title a,
+.page__title a:visited {
+  color: inherit !important;       /* inherit the .page__title color */
+  text-decoration: none;           /* optional: remove underline */
+}
+
+/* 3) (Optional) Tweak hover/active styling */
+.page__title a:hover,
+.page__title a:active {
+  color: #9c27c2 !important;
 }
