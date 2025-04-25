@@ -16,8 +16,8 @@ This project showcases the power of **Multi-Agent Reinforcement Learning (MARL)*
 ## 🎮 Gameplay Features
 
 - 🧠 **Smart AI agents** trained with [JAXAgents](https://github.com/amavrits/jax-agents), JAX, Flax, and Optax  
-- 🎭 **Play as prey or predator** with unique strategies  
-- 🕹️ **Cross-platform controls**: keyboard (desktop) or on-screen joystick (mobile)  
+- 🎭 **Play as prey or predator** against AI with unique strategies  
+- 🕹️ **Cross-platform controls**: keyboard or on-screen joystick  
 - 🌐 **Browser-based** — no installation required  
 - 🔄 **Replayable** with different roles and strategies  
 - 📹 **Game recording** for agent fine-tuning (coming soon)  
@@ -33,16 +33,16 @@ Coming soon ...
 
 ## 🧠 Tech Stack
 
-| Component           | Technology                                 |
-|---------------------|--------------------------------------------|
-| **RL Agents**       | JAX, Flax, Optax                           |
-| **Algorithm**       | Improved PPO (IPPO)                        |
-| **Environment**     | Custom prey-predator grid setup            |
-| **Frontend**        | HTML, CSS, JavaScript                      |
-| **Mobile Input**    | On-screen joystick                         |
-| **Backend API**     | FastAPI                                    |
-| **Containerization**| Docker                                     |
-| **Hosting**         | GitHub Pages (frontend), Hetzner Cloud (backend) |
+| Component           | Technology                                                                                         |
+|---------------------|----------------------------------------------------------------------------------------------------|
+| **RL Agents**       | <a href="https://github.com/amavrits/jax-agents" class="gold-link">JAXAgents</a>, JAX, Flax, Optax |
+| **Algorithm**       | Improved PPO (IPPO)                                                                                |
+| **Environment**     | Custom prey-predator grid setup                                                                    |
+| **Frontend**        | HTML, CSS, JavaScript                                                                              |
+| **Mobile Input**    | On-screen joystick                                                                                 |
+| **Backend API**     | FastAPI                                                                                            |
+| **Containerization**| Docker                                                                                             |
+| **Hosting**         | GitHub Pages (frontend), Hetzner Cloud (backend)                                                   |
 
 ---
 
