@@ -6,10 +6,6 @@ classes: cv-page
 nav_order: 1
 ---
 
-<img class="github-avatar"
-     src="https://github.com/amavrits.png"
-     alt="GitHub avatar of amavrits">
-
 # Antonis Mavritsakis
 
 ✉️ <a href="mailto:amavrits@gmail.com" class="white-link">amavrits.upwork@gmail.com</a> | 
@@ -79,3 +75,7 @@ Data scientist, risk analyst, and civil engineer with expertise in data and risk
 
 - <a href="/projects/" class="gold-link">Portfolio →</a>
 - <a href="/research/" class="gold-link">Research →</a>
+
+<img class="github-avatar"
+     src="https://github.com/amavrits.png"
+     alt="GitHub avatar of amavrits">

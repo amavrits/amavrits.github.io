@@ -158,5 +158,19 @@ h1, h2, h3, h4, h5, h6 {
   50% { border-color: #fff }
 }
 
-@import "avatar";
+//@import "avatar";
 
+.github-avatar {
+  position: absolute;   /* now measured against the viewport */
+  top: 2rem;            /* tweak as you like */
+  left: 2rem;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  box-shadow: 0 2px 6px rgba(0,0,0,.15);
+  object-fit: cover;
+  transition: transform .15s ease;
+  z-index: 10;          /* float above everything else */
+
+  &:hover { transform: scale(1.06); }
+}
