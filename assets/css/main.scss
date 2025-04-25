@@ -22,6 +22,8 @@ $h-size-4: 1.0625em !default;
 $h-size-5: 1.03125em !default;
 $h-size-6: 1em !default;
 
+$max-width: 1440px;       // ← pick whatever max you like :contentReference[oaicite:0]{index=0}
+
 /* ---- Import the theme ---- */
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'dark' }}";
 @import "minimal-mistakes";
@@ -166,14 +168,11 @@ h1, h2, h3, h4, h5, h6 {
 //  max-width: 200rem;      // override the theme’s built-in max for just the content area
 //}
 
-.initial-content {
-  max-width: 2000rem;      // override the theme’s built-in max for just the content area
-}
 
 .github-avatar {
   position: absolute;   /* now measured against the viewport */
   top: 6rem;            /* tweak as you like */
-  left: 7rem;
+  left: 8rem;
   width: 150px;
   height: 150px;
   border-radius: 50%;
