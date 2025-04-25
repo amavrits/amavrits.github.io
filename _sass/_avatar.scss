@@ -1,3 +1,6 @@
+
+body { position: relative; }      // becomes the containing block
+
 .github-avatar {
   //position: fixed;
   position: absolute;   // scrolls together with .profile
