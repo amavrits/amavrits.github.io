@@ -6,6 +6,10 @@ permalink: /
 classes: home-page
 ---
 
+<img class="github-avatar"
+     src="https://github.com/amavrits.png"
+     alt="GitHub avatar of amavrits">
+
 # Antonis Mavritsakis
 <h2 class="typewriter gold-link">Data Scientist | Researcher | Engineer</h2>
 
@@ -20,6 +24,3 @@ I'm a data scientist, risk analyst, and engineer based in Utrecht, The Netherlan
   <a href="https://github.com/amavrits">Github</a> and
   <a href="https://linkedin.com/in/antonis-mavritsakis">LinkedIn</a>
 
-<img class="github-avatar"
-     src="https://github.com/amavrits.png"
-     alt="GitHub avatar of amavrits">
