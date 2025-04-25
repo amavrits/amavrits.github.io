@@ -162,7 +162,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .initial-content {
   position: relative;
-  padding-left: calc(150px + 2rem + 1rem);
+  padding-left: calc(150px + 0rem + 1rem);
   max-width: 200rem;      // override the theme’s built-in max for just the content area
 }
 
