@@ -4,9 +4,26 @@ title: "Reddit Sentiment Analysis for Stock Price Forecasting"
 permalink: /projects/reddit-sentiment/
 ---
 
-Subreddit *r/wallstreetbets* includes discussions of users about the stock market. This project investigated whether the sentiment expressed in these discussions influences the price of stocks. The analysis started by setting up a Natural Language Processing framework that recognized stock names and quantified the associated sentiment over a collection of *r/wallstreetbets* posts and comments. Following, a linear regression model was deployed to describe the relationship between sentiment score and stock price volatility. Hypothesis testing was used to examine whether the discovered relationships were statistically significant. Eventually, the analysis concluded that no relationship existed after the short squeeze organized by the subreddit in January 2021.
+What happens when the stock market goes haywire? People turn to Reddit—and this project dives into what they say.
 
-**Key Points:**
-- Sentiment analysis
-- NLP
-- Hypothesis testing
+Using data from the most popular stock-related subreddit, this project performs sentiment analysis to understand how retail investors react to major market events. It's a fascinating intersection of finance, language, and data science.
+
+## Project Highlights
+
+- 🧠 **NLP for Finance**: Applies Natural Language Processing (NLP) techniques to Reddit posts from r/wallstreetbets.
+- 📈 **Market Context**: Focuses on periods of market volatility to study emotional and cognitive trends.
+- 🕵️ **Sentiment Evolution**: Tracks how public sentiment shifts as financial news breaks and market reactions unfold.
+- 📦 **End-to-End Pipeline**: From data scraping to visualization—all done in Python.
+
+## Tech Stack
+
+- **Data Sources**: Reddit JSON dumps
+- **Text Processing**: VADER
+- **Stock price forecasting**: Scikit-learn 
+- **Visualization**: Matplotlib + Seaborn
+
+## Key Insights
+
+- Weak connection between sentiment and stock price changes in usual market conditions.
+- Sentiment peaks often lag behind major market events—retail reacts, but slowly.
+
