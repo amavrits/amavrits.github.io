@@ -160,14 +160,15 @@ h1, h2, h3, h4, h5, h6 {
 
 //@import "avatar";
 
-.page__inner-wrap {
+.initial-content {
+  position: relative;
   padding-left: calc(150px + 2rem + 1rem);
 }
 
 .github-avatar {
   position: absolute;   /* now measured against the viewport */
   top: 2rem;            /* tweak as you like */
-  left: 2rem;
+  left: 0rem;
   width: 150px;
   height: 150px;
   border-radius: 50%;
