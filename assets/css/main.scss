@@ -185,7 +185,7 @@ h1, h2, h3, h4, h5, h6 {
 .github-avatar {
   position: absolute;   /* now measured against the viewport */
   top: 6rem;            /* tweak as you like */
-  left: 20rem;
+  left: 8rem;
   width: 150px;
   height: 150px;
   border-radius: 50%;
@@ -199,7 +199,6 @@ h1, h2, h3, h4, h5, h6 {
 
 
 
-
 /* 1. The two-column grid */
 .cv-grid {
   display: grid;
@@ -209,7 +208,7 @@ h1, h2, h3, h4, h5, h6 {
   grid-template-columns: 300px 900px;
 
   /* tighten up the space between them */
-  gap: 1rem;
+  gap: 3rem;
 
   max-width: 1700px;
 
