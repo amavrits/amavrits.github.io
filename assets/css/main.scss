@@ -75,6 +75,7 @@ a.white-link {
 
 h1, h2, h3, h4, h5, h6 {
   color: #b12edb !important;
+  //color: #9c27c2 !important;
 }
 
 //.page .page__header .page__title,
@@ -260,3 +261,12 @@ h1, h2, h3, h4, h5, h6 {
   color: #b12edb !important;
 }
 
+body.page-projects .page__title,
+body.page-projects .page__title a {
+  color: goldenrod !important;
+}
+
+body.page-research .page__title,
+body.page-research .page__title a {
+  color: goldenrod !important;
+}
