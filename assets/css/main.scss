@@ -48,7 +48,7 @@ html {
 }
 
 body {
-  //background-color: #000 !important;
+  background-color: #000 !important;
   color: #f0f0f0 !important;
 }
 
@@ -197,12 +197,15 @@ h1, h2, h3, h4, h5, h6 {
 //  &:hover { transform: scale(1.06); }
 //}
 
+
+
+
 /* 1. The two-column grid */
 .cv-grid {
   display: grid;
 
   /* FIXED sidebar width + fluid main */
-  grid-template-columns: 240px 1fr !important;
+  grid-template-columns: 1fr 4fr !important;
 
   /* tighten up the space between them */
   gap: 1rem;
