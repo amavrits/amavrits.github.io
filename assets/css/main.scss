@@ -182,20 +182,20 @@ h1, h2, h3, h4, h5, h6 {
 //}
 
 
-//.github-avatar {
-//  position: absolute;   /* now measured against the viewport */
-//  top: 6rem;            /* tweak as you like */
-//  left: 20rem;
-//  width: 150px;
-//  height: 150px;
-//  border-radius: 50%;
-//  box-shadow: 0 2px 6px rgba(0,0,0,.15);
-//  object-fit: cover;
-//  transition: transform .15s ease;
-//  z-index: 10;          /* float above everything else */
-//
-//  &:hover { transform: scale(1.06); }
-//}
+.github-avatar {
+  position: absolute;   /* now measured against the viewport */
+  top: 6rem;            /* tweak as you like */
+  left: 20rem;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  box-shadow: 0 2px 6px rgba(0,0,0,.15);
+  object-fit: cover;
+  transition: transform .15s ease;
+  z-index: 10;          /* float above everything else */
+
+  &:hover { transform: scale(1.06); }
+}
 
 
 
@@ -250,13 +250,6 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 1rem; /* Optional: add spacing if needed */
 }
 
-//.cv-grid.page__inner-wrap {
-//  max-width: none !important;
-//  width: auto !important;
-//  padding: 0 !important;
-//  margin: 0 !important;
-//}
-
 .cv-grid .github-avatar {
   position: absolute;    /* stays absolutely positioned */
   top: 0.5rem;
@@ -267,10 +260,3 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 50%;
 }
 
-.cv-grid > aside {
-  background: rgba(255,0,0,0.2) !important;
-}
-
-.cv-grid > main {
-  background: rgba(0,0,255,0.2) !important;
-}
