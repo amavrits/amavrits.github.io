@@ -6,20 +6,64 @@ classes: cv-page
 nav_order: 1
 ---
 
+[//]: # (# Antonis Mavritsakis)
+
+[//]: # ()
+[//]: # (✉️ <a href="mailto:amavrits@gmail.com" class="white-link">amavrits.upwork@gmail.com</a> | )
+
+[//]: # (<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20" style="vertical-align: middle; margin-right: 4px;" />)
+
+[//]: # (<a href="https://github.com/amavrits" class="white-link">amavrits</a> | )
+
+[//]: # (<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" style="vertical-align: middle; margin-right: 4px;" />)
+
+[//]: # (<a href="https://github.com/https://linkedin.com/in/antonis-mavritsakis" class="white-link">LinkedIn</a> | )
+
+[//]: # (<img src="https://img.icons8.com/ios-filled/50/ffffff/marker.png" width="16" style="vertical-align: middle; margin-right: 4px;" />)
+
+[//]: # (<span class="white-link" style="vertical-align: middle;">Utrecht, NL</span>)
+
+[//]: # (<br>)
+
+[//]: # (💼 <a href="/projects/" class="gold-link">Project portfolio</a> | )
+
+[//]: # (🔎 <a href="/projects/" class="gold-link">Research</a>)
+
+<!-- Left column -->
+<div style="flex: 0 0 250px; max-width: 250px; margin-right: 30px;">
+
 # Antonis Mavritsakis
 
-✉️ <a href="mailto:amavrits@gmail.com" class="white-link">amavrits.upwork@gmail.com</a> | 
+✉️ <a href="mailto:amavrits@gmail.com" class="white-link">amavrits.upwork@gmail.com</a><br>
+💼 <a href="/projects/" class="gold-link">Project portfolio</a><br>
+🔎 <a href="/research/" class="gold-link">Research</a><br>
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20" style="vertical-align: middle; margin-right: 4px;" />
-<a href="https://github.com/amavrits" class="white-link">amavrits</a> | 
+<a href="https://github.com/amavrits" class="white-link">amavrits</a><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" style="vertical-align: middle; margin-right: 4px;" />
-<a href="https://github.com/https://linkedin.com/in/antonis-mavritsakis" class="white-link">LinkedIn</a> | 
+<a href="https://linkedin.com/in/antonis-mavritsakis" class="white-link">LinkedIn</a><br>
 <img src="https://img.icons8.com/ios-filled/50/ffffff/marker.png" width="16" style="vertical-align: middle; margin-right: 4px;" />
-<span class="white-link" style="vertical-align: middle;">Utrecht, NL</span>
+<span class="white-link" style="vertical-align: middle;">Utrecht, NL</span><br>
+
+</div>
+
+<!-- Right column -->
+<div style="flex: 1 1 auto; min-width: 300px;">
 
 ---
 
 ## Profile
 Data scientist, risk analyst, and civil engineer with expertise in data and risk analysis for infrastructure asset management. With a background in both consulting and research, I excel in developing innovative solutions for complex decision‑making challenges. As a curious and adaptable professional, I thrive in collaborative environments and achieve impactful results.
+
+---
+
+## Technical Skills
+
+- **Statistics**: Frequentist & (Hierarchical) Bayesian Modeling, (Generalized) Linear Modeling, Gaussian Process Regression, Mixture Modeling
+- **Machine Learning**: Deep Learning, Reinforcement Learning, Clustering, Dimensionality Reduction  
+- **Python:** NumPy, SciPy, scikit-learn, statsmodels, PyTorch, JAX, PyMC  
+- **Backend:** FastAPI, PySpark, Pandas, SQLite, ML model inference 
+- **Deployment:** Docker, Git, bash, MLOps, CI/CD
+
 
 ---
 
@@ -30,7 +74,7 @@ Data scientist, risk analyst, and civil engineer with expertise in data and risk
 - Developed <a href="https://github.com/amavrits/jax-agents" class="gold-link">JAXAgents</a>, a Python package for optimized training of (Multi-Agent) Reinforcement Learning agents.  
 - Trained Multi-Agent RL agents and deployed in an online game for human–agent competition.  
 - Applied Reinforcement Learning through Human Feedback (RLHF) using human gameplay data.
-- Predicted stock prices based on sentiment recognition in r/wallstreetbets using Deep Learning.
+- Predicted stock price volatility based on sentiment recognition in r/wallstreetbets using Deep Learning.
 - Derived a winning strategy for beating Blackjack using Deep Reinforcement Learning.
 
 ### Researcher / Consultant – Risk and Reliability  
@@ -58,16 +102,6 @@ Data scientist, risk analyst, and civil engineer with expertise in data and risk
 
 ### Diploma in Civil Engineering  
 **National Technical University of Athens** *(2010 – 2015)* - Graduated top 5% of class  
-
----
-
-## Technical Skills
-
-- **Statistics**: Frequentist & (Hierarchical) Bayesian Modeling, (Generalized) Linear Modeling, Gaussian Process Regression, Mixture Modeling
-- **Machine Learning**: Deep Learning, Reinforcement Learning, Clustering, Dimensionality Reduction  
-- **Python:** NumPy, SciPy, scikit-learn, statsmodels, PyTorch, JAX, PyMC  
-- **Backend:** FastAPI, PySpark, Pandas, SQLite, ML model inference 
-- **Deployment:** Docker, Git, bash, MLOps, CI/CD
 
 ---
 
