@@ -7,7 +7,7 @@ nav_order: 1
 ---
 
 <!-- Left column -->
-<div style="flex: 0 0 250px; max-width: 250px; margin-right: 30px;">
+<div>
 
 # Antonis Mavritsakis
 
@@ -24,7 +24,7 @@ nav_order: 1
 </div>
 
 <!-- Right column -->
-<div style="flex: 1 1 auto; min-width: 300px;">
+<div>
 
 ---
 
@@ -86,3 +86,5 @@ Data scientist, risk analyst, and civil engineer with expertise in data and risk
 
 - <a href="/projects/" class="gold-link">Portfolio →</a>
 - <a href="/research/" class="gold-link">Research →</a>
+
+</div>
