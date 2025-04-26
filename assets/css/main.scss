@@ -231,15 +231,13 @@ h1, h2, h3, h4, h5, h6 {
   top: 2rem;
 
   /* small inner padding only */
-  padding: 1rem;
+  padding: 0 5rem 0 2rem;
   box-sizing: border-box;
 }
 
-/* 3. (Optional) debug background to see it clearly—remove later */
-.cv-grid > aside {
-  background: rgba(255, 0, 0, 0.1);
+.cv-grid > main {
+  padding: 0 1rem 0 10rem;
 }
-
 
 .cv-grid h1 {
   font-size: 1.7rem;
