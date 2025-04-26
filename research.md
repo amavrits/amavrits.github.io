@@ -1,16 +1,11 @@
 ---
 layout: single
-title: Research
+title: ""
 permalink: /research/
 nav_order: 3
-header-includes:
-  - |
-    <style>
-      h1.page__title {
-        color: goldenrod !important;
-      }
-    </style>
 ---
+
+<h1 class="gold-link">Research</h1>
 
 ## Ongoing research
 
