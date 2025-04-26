@@ -5,7 +5,7 @@ permalink: /research/
 nav_order: 3
 ---
 
-<h1 class="gold-link">Research</h1>
+[//]: # (<h1 class="gold-link">Research</h1><br/>)
 
 ## Ongoing research
 
