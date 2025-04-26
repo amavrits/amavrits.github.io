@@ -4,16 +4,16 @@ title: Resume
 permalink: /cv/
 nav_order: 1
 
-## disable the theme’s author‐profile sidebar
-#author_profile: false      # turns off that left column :contentReference[oaicite:1]{index=1}
-#
-## make extra sure no TOC or custom nav sneaks in
-#toc: false
-#sidebar: false
+# disable the theme’s author‐profile sidebar
+author_profile: false      # turns off that left column :contentReference[oaicite:1]{index=1}
+
+# make extra sure no TOC or custom nav sneaks in
+toc: false
+sidebar: false
 
 ---
 
-# Antonis Mavritsakis
+# A Mavritsakis
 
 ## Profile
 Data scientist, risk analyst, and civil engineer with expertise in data and risk analysis for infrastructure asset management. With a background in both consulting and research, I excel in developing innovative solutions for complex decision‑making challenges. As a curious and adaptable professional, I thrive in collaborative environments and achieve impactful results.
