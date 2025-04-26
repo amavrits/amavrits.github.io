@@ -31,6 +31,20 @@ $max-width: 1440px;       // ← pick whatever max you like :contentReference[oa
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'dark' }}";
 @import "minimal-mistakes";
 
+/* 1) On the /projects/ index page (project cards): */
+.collection-projects .card__title a {
+  color: #9c27c2 !important;   /* your purple of choice */
+}
+
+/* 2) On the projects landing page header: */
+.page-collection-projects .page__title {
+  color: #9c27c2 !important;
+}
+
+/* 3) On individual project pages: */
+.page-project .page__title {
+  color: #9c27c2 !important;
+}
 
 /* ---- Global font-size adjustments (responsive) ---- */
 html {
