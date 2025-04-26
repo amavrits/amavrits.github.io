@@ -224,22 +224,16 @@ h1, h2, h3, h4, h5, h6 {
 
 /* 2. The sticky sidebar panel */
 .cv-grid > aside {
-  text-align: center;
   position: sticky;
   top: 2rem;
   //padding-left: 5;
 
   /* small inner padding only */
-  padding: 0 1rem;
+  padding: 0 2rem;
   box-sizing: border-box;
 }
 
 .cv-grid > main p {
-  text-align: justify;
-}
-
-.cv-grid > aside p,
-.cv-grid > aside ul {
   text-align: justify;
 }
 
