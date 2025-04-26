@@ -5,4 +5,10 @@ permalink: /cv/
 nav_order: 1
 ---
 
-This is **main** content.
+# disable the theme’s author‐profile sidebar
+author_profile: false      # turns off that left column :contentReference[oaicite:1]{index=1}
+
+# make extra sure no TOC or custom nav sneaks in
+toc: false
+sidebar: false
+---
