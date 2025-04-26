@@ -210,11 +210,7 @@ h1, h2, h3, h4, h5, h6 {
   /* tighten up the space between them */
   gap: 1rem;
 
-  /* center the whole block on the page */
-  width: 100%;
-
-  /* drop the max-width entirely */
-  max-width: none;
+  max-width: 1700px;
 
   margin: 2rem 0 2rem 2rem;
 
@@ -231,12 +227,8 @@ h1, h2, h3, h4, h5, h6 {
   top: 2rem;
 
   /* small inner padding only */
-  padding: 0 5rem 0 2rem;
+  padding: 0 1rem;
   box-sizing: border-box;
-}
-
-.cv-grid > main {
-  padding: 0 1rem 0 10rem;
 }
 
 .cv-grid h1 {
