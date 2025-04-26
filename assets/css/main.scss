@@ -201,15 +201,6 @@ h1, h2, h3, h4, h5, h6 {
   display: grid !important;
   grid-template-columns: 200px 1fr !important;
   gap: 1rem !important;
-  border: 2px dashed lime !important;  /* visual debug */
-}
-
-.cv-grid > aside {
-  background: rgba(255,0,0,0.2) !important;
-}
-
-.cv-grid > main {
-  background: rgba(0,0,255,0.2) !important;
 }
 
 .cv-grid .github-avatar {
