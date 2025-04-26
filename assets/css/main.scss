@@ -151,27 +151,6 @@ h1, h2, h3, h4, h5, h6 {
 //  margin: 0 auto !important;
 //}
 
-.cv-grid {
-  display: grid;
-  grid-template-columns: 200px 1fr;
-  gap: 2rem;
-  width: 100%;      /* span the full width */
-  margin: 2rem 0 2rem 0;   /* top/right/bottom/left → left=0 */
-}
-
-.cv-grid > aside {
-  position: relative;
-}
-
-.cv-grid .github-avatar {
-  position: absolute;    /* now relative to the aside */
-  top: 1rem;
-  left: 1rem;
-  width: 150px;
-  height: 150px;
-  border-radius: 50%;
-}
-
 .typewriter {
   overflow: hidden;
   border-right: 2px solid goldenrod;
@@ -217,3 +196,28 @@ h1, h2, h3, h4, h5, h6 {
 
   &:hover { transform: scale(1.06); }
 }
+
+.cv-grid {
+  display: grid !important;
+  grid-template-columns: 200px 1fr !important;
+  gap: 1rem !important;
+  border: 2px dashed lime !important;  /* visual debug */
+}
+
+.cv-grid > aside {
+  background: rgba(255,0,0,0.2) !important;
+}
+
+.cv-grid > main {
+  background: rgba(0,0,255,0.2) !important;
+}
+
+.cv-grid .github-avatar {
+  position: absolute;    /* now relative to the aside */
+  top: 1rem;
+  left: 1rem;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+
