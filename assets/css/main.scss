@@ -182,24 +182,24 @@ h1, h2, h3, h4, h5, h6 {
 //}
 
 
-.github-avatar {
-  position: absolute;   /* now measured against the viewport */
-  top: 6rem;            /* tweak as you like */
-  left: 20rem;
-  width: 150px;
-  height: 150px;
-  border-radius: 50%;
-  box-shadow: 0 2px 6px rgba(0,0,0,.15);
-  object-fit: cover;
-  transition: transform .15s ease;
-  z-index: 10;          /* float above everything else */
-
-  &:hover { transform: scale(1.06); }
-}
+//.github-avatar {
+//  position: absolute;   /* now measured against the viewport */
+//  top: 6rem;            /* tweak as you like */
+//  left: 20rem;
+//  width: 150px;
+//  height: 150px;
+//  border-radius: 50%;
+//  box-shadow: 0 2px 6px rgba(0,0,0,.15);
+//  object-fit: cover;
+//  transition: transform .15s ease;
+//  z-index: 10;          /* float above everything else */
+//
+//  &:hover { transform: scale(1.06); }
+//}
 
 .cv-grid {
   display: grid !important;
-  grid-template-columns: 1.2fr 3fr !important;
+  grid-template-columns: 1fr 3fr !important;
   gap: 1rem !important;
   max-width: 1300px;
   margin: 2rem auto 2rem 2rem;
@@ -228,7 +228,7 @@ h1, h2, h3, h4, h5, h6 {
 .cv-grid .github-avatar {
   position: absolute;    /* now relative to the aside */
   top: 1rem;
-  left: 1rem;
+  left: 15rem;
   width: 150px;
   height: 150px;
   border-radius: 50%;
