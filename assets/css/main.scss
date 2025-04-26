@@ -232,6 +232,15 @@ h1, h2, h3, h4, h5, h6 {
   box-sizing: border-box;
 }
 
+.cv-grid > main p {
+  text-align: justify;
+}
+
+.cv-grid > aside p,
+.cv-grid > aside ul {
+  text-align: justify;
+}
+
 .cv-grid h1 {
   font-size: 1.7rem;
   border-bottom: none !important;
