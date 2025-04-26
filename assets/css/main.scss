@@ -206,7 +206,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .cv-grid h1 {
-  font-size: 1.7;
+  font-size: 1.7rem;
   border-bottom: none !important;
   padding-bottom: 0 !important;
   margin-bottom: 1rem; /* Optional: add spacing if needed */
@@ -234,3 +234,6 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 50%;
 }
 
+.cv-grid > aside {
+  background: rgba(255,0,0,0.2) !important;
+}
