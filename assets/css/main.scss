@@ -48,7 +48,7 @@ html {
 }
 
 body {
-  background-color: #000 !important;
+  //background-color: #000 !important;
   color: #f0f0f0 !important;
 }
 
@@ -91,7 +91,7 @@ h1, h2, h3, h4, h5, h6 {
 .site-header,
 .masthead,
 .site-footer {
-  //background-color: #111 !important;
+  background-color: #111 !important;
   color: #eee !important;
 }
 
@@ -197,16 +197,42 @@ h1, h2, h3, h4, h5, h6 {
 //  &:hover { transform: scale(1.06); }
 //}
 
+/* 1. The two-column grid */
 .cv-grid {
   display: grid;
-  /* sidebar 200px, main fill rest */
-  grid-template-columns: 200px 1fr !important;
-  width: 100%;
-  max-width: 900px;    /* or whatever total width you prefer */
+
+  /* FIXED sidebar width + fluid main */
+  grid-template-columns: 240px 1fr !important;
+
+  /* tighten up the space between them */
   gap: 1rem;
-  margin: 2rem auto;   /* center it at that max-width */
+
+  /* center the whole block on the page */
+  max-width: 900px;
+  margin: 2rem auto;       /* top/bottom 2rem, left/right auto */
+
+  /* ensure padding you add doesn’t inflate the track width */
+  box-sizing: border-box;
+
+  /* optional: give the container some padding from the viewport */
+  padding: 0 1rem;
+}
+
+/* 2. The sticky sidebar panel */
+.cv-grid > aside {
+  position: sticky;
+  top: 2rem;
+
+  /* small inner padding only */
+  padding: 1rem;
   box-sizing: border-box;
 }
+
+/* 3. (Optional) debug background to see it clearly—remove later */
+.cv-grid > aside {
+  background: rgba(255, 0, 0, 0.1);
+}
+
 
 .cv-grid h1 {
   font-size: 1.7rem;
