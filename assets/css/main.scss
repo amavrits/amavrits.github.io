@@ -205,14 +205,14 @@ h1, h2, h3, h4, h5, h6 {
   display: grid;
 
   /* FIXED sidebar width + fluid main */
-  grid-template-columns: 1fr 4fr !important;
+  grid-template-columns: 1fr 3fr !important;
 
   /* tighten up the space between them */
   gap: 1rem;
 
   /* center the whole block on the page */
   max-width: 900px;
-  margin: 2rem auto;       /* top/bottom 2rem, left/right auto */
+  margin: 2rem 0 2rem 2rem;
 
   /* ensure padding you add doesn’t inflate the track width */
   box-sizing: border-box;
