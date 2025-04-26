@@ -1,30 +1,33 @@
 ---
 layout: single
 title: Resume
-permalink: /cv/
-classes: cv-page
+#permalink: /cv/
+#classes: cv-page
 nav_order: 1
 ---
 
-<!-- Left column -->
-<div style="flex: 0 0 250px; max-width: 250px; margin-right: 30px;">
-
 # Antonis Mavritsakis
 
-✉️ <a href="mailto:amavrits@gmail.com" class="white-link">amavrits.upwork@gmail.com</a><br>
-💼 <a href="/projects/" class="gold-link">Project portfolio</a><br>
-🔎 <a href="/research/" class="gold-link">Research</a><br>
+
+✉️ <a href="mailto:amavrits@gmail.com" class="white-link">amavrits.upwork@gmail.com</a> | 
+
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20" style="vertical-align: middle; margin-right: 4px;" />
-<a href="https://github.com/amavrits" class="white-link">amavrits</a><br>
+
+<a href="https://github.com/amavrits" class="white-link">amavrits</a> | 
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" style="vertical-align: middle; margin-right: 4px;" />
-<a href="https://linkedin.com/in/antonis-mavritsakis" class="white-link">LinkedIn</a><br>
+
+<a href="https://github.com/https://linkedin.com/in/antonis-mavritsakis" class="white-link">LinkedIn</a> | 
+
 <img src="https://img.icons8.com/ios-filled/50/ffffff/marker.png" width="16" style="vertical-align: middle; margin-right: 4px;" />
-<span class="white-link" style="vertical-align: middle;">Utrecht, NL</span><br>
 
-</div>
+<span class="white-link" style="vertical-align: middle;">Utrecht, NL</span>
 
-<!-- Right column -->
-<div style="flex: 1 1 auto; min-width: 300px;">
+<br>
+
+💼 <a href="/projects/" class="gold-link">Project portfolio</a> | 
+
+🔎 <a href="/projects/" class="gold-link">Research</a>
 
 ---
 
