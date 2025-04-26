@@ -26,9 +26,11 @@ $h-size-6: 1em !default;
 
 $max-width: 1440px;       // ← pick whatever max you like :contentReference[oaicite:0]{index=0}
 
+
 /* ---- Import the theme ---- */
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'dark' }}";
 @import "minimal-mistakes";
+
 
 /* ---- Global font-size adjustments (responsive) ---- */
 html {
@@ -47,10 +49,17 @@ html {
   }
 }
 
-body {
-  background-color: #000 !important;
-  color: #f0f0f0 !important;
-}
+//body {
+//  background-color: #000 !important;
+//  color: #f0f0f0 !important;
+//}
+//
+//.site-header,
+//.masthead,
+//.site-footer {
+//  background-color: #111 !important;
+//  color: #eee !important;
+//}
 
 a {
   color: goldenrod !important; /* Optional: links */
@@ -86,13 +95,6 @@ h1, h2, h3, h4, h5, h6 {
 /* ---- Justify main content and set page width ---- */
 .page__content {
   text-align: justify;
-}
-
-.site-header,
-.masthead,
-.site-footer {
-  background-color: #111 !important;
-  color: #eee !important;
 }
 
 .site-title {
