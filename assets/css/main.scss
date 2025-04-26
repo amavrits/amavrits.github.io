@@ -125,31 +125,43 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .cv-page.page__inner-wrap {
-  //max-width: 100% !important;
-  max-width: 1100px !important;
-  width: 100% !important;
+  max-width: none !important;
+  width: auto !important;
   padding: 0 !important;
-  margin: 0 auto;
+  margin: 0 !important;
 }
 
-.cv-page .grid__wrapper {
+//.cv-page .grid__wrapper {
+//  display: grid;
+//  grid-template-columns: 300px 1fr;
+//  gap: 2rem;
+//}
+//
+//.cv-page .grid__wrapper > div {
+//  background: transparent; /* optional: no background */
+//  padding: 0;
+//}
+//
+//.cv-page.page {
+//  margin: 0 !important;
+//  padding: 0 !important;
+//}
+//
+//.cv-page.page__content {
+//  margin: 0 auto !important;
+//}
+
+.cv-grid {
   display: grid;
   grid-template-columns: 300px 1fr;
   gap: 2rem;
+  max-width: 1100px;
+  margin: 2rem auto;
 }
 
-.cv-page .grid__wrapper > div {
-  background: transparent; /* optional: no background */
-  padding: 0;
-}
-
-.cv-page.page {
-  margin: 0 !important;
-  padding: 0 !important;
-}
-
-.cv-page.page__content {
-  margin: 0 auto !important;
+.cv-grid > aside {
+  position: sticky;
+  top: 2rem;
 }
 
 .typewriter {

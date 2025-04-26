@@ -1,8 +1,7 @@
 ---
-layout: single
-title: Resume
+layout: cv
+title: Antonis Mavritsakis
 permalink: /cv/
-classes: cv-page
 nav_order: 1
 ---
 
@@ -40,7 +39,6 @@ Data scientist, risk analyst, and civil engineer with expertise in data and risk
 - **Python:** NumPy, SciPy, scikit-learn, statsmodels, PyTorch, JAX, PyMC  
 - **Backend:** FastAPI, PySpark, Pandas, SQLite, ML model inference 
 - **Deployment:** Docker, Git, bash, MLOps, CI/CD
-
 
 ---
 
