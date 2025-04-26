@@ -3,7 +3,7 @@ layout: single
 title: Research
 permalink: /research/
 nav_order: 3
-body_classes: research-page
+class: research-page
 ---
 
 ## Ongoing research
