@@ -1,11 +1,11 @@
 ---
 layout: single
-title: ""
+title:
 permalink: /research/
 nav_order: 3
 ---
 
-[//]: # (<h1 class="gold-link">Research</h1><br/>)
+<h1 class="manual_title">Research</h1>
 
 ## Ongoing research
 
