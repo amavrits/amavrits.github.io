@@ -13,6 +13,8 @@ sidebar: false
 
 ---
 
+<h1 class="manual_title">Resume</h1>
+
 # Antonis Mavritsakis
 
 ## Profile

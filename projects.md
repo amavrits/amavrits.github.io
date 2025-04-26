@@ -1,9 +1,11 @@
 ---
 layout: single
-title: Projects
+title: 
 permalink: /projects/
 nav_order: 2
 ---
+
+<h1 class="manual_title">Projects</h1>
 
 My portfolio of Data Science projects, ML implementations and Python developments.
 
