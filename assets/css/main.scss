@@ -31,6 +31,7 @@ $max-width: 1440px;       // ← pick whatever max you like :contentReference[oa
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'dark' }}";
 @import "minimal-mistakes";
 
+
 /* ---- Global font-size adjustments (responsive) ---- */
 html {
   font-size: 14px; // Base font size (small screens)
@@ -76,11 +77,11 @@ h1, h2, h3, h4, h5, h6 {
   color: #9c27c2 !important;
 }
 
-.page .page__header .page__title,
-.page .page__title,
-.page__header h1.page__title {
-  color: #9c27c2 !important;
-}
+//.page .page__header .page__title,
+//.page .page__title,
+//.page__header h1.page__title {
+//  color: #9c27c2 !important;
+//}
 
 .home-page .page__title {
   display: none !important;
@@ -252,5 +253,10 @@ h1, h2, h3, h4, h5, h6 {
   width: 200px;
   height: 200px;
   border-radius: 50%;
+}
+
+.page__title,
+.page__title a {
+  color: #9c27c2 !important;
 }
 
