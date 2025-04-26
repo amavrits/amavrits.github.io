@@ -66,5 +66,3 @@ Data scientist, risk analyst, and civil engineer with expertise in data and risk
 ### Diploma in Civil Engineering  
 **National Technical University of Athens** *(2010 – 2015)* - Graduated top 5% of class  
 
-
----
