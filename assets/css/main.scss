@@ -226,9 +226,10 @@ h1, h2, h3, h4, h5, h6 {
 //}
 
 .cv-grid .github-avatar {
-  position: absolute;    /* now relative to the aside */
-  top: 1rem;
-  left: 4rem;
+  position: absolute;    /* stays absolutely positioned */
+  top: 0.5rem;
+  left: 50%;             /* move its left edge to the middle */
+  transform: translateX(-50%);  /* shift it back by half its own width */
   width: 200px;
   height: 200px;
   border-radius: 50%;
