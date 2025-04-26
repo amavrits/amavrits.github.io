@@ -2,38 +2,58 @@
 layout: default
 ---
 
-<div class="cv-grid">
-  <aside style="position: sticky; top: 2rem; padding-left: 5rem; padding-right: 2rem; grid-template-columns: 1fr 3fr !important; box-sizing: border-box;">
+<div class="cv-grid" style="
+  display: grid;
+  /* sidebar: between 200px and 280px (ideally 25% of container) */
+  grid-template-columns: clamp(200px, 25%, 280px) 1fr;
+  gap: 1rem;
+  width: 100%;
+  margin: 2rem 0;      /* flush-left, flush-right */
+  box-sizing: border-box;
+">
+
+  <aside style="
+    position: sticky;
+    top: 2rem;
+
+    /* now just inner padding, does NOT change sidebar width */
+    padding: 0.5rem 1rem;
+    box-sizing: border-box;
+  ">
     <img
-          src="https://github.com/amavrits.png"
-          alt="Avatar"
-          class="github-avatar"
-        />
+      src="https://github.com/amavrits.png"
+      alt="Avatar"
+      class="github-avatar"
+    />
 
-    <!-- your contact & links -->
-<!--    <h1>{{ page.title }}</h1>-->
-
-    <br/><br/><br/><br/><br/><br/><br/><br/>
     <strong>Contact:</strong><br/>
-    <ul style="list-style: none; padding: 0; margin: 0;">
-        <li>✉️ <a href="mailto:amavrits@gmail.com"      class="white-link">amavrits@gmail.com</a></li>
-<!--        <li>✉️ <a href="mailto:amavrits.upwork@gmail.com" class="white-link">amavrits.upwork@gmail.com</a></li>-->
+    <ul style="list-style: none; padding: 0; margin: 0 0 1rem 0;">
+      <li style="white-space: nowrap;">
+        ✉️ <a href="mailto:amavrits@gmail.com" class="white-link">amavrits@gmail.com</a>
+      </li>
     </ul>
-      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20" style="vertical-align: middle;"/>
-      <a href="https://github.com/amavrits" class="white-link">amavrits</a><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" style="vertical-align: middle;"/>
-      <a href="https://linkedin.com/in/antonis-mavritsakis" class="white-link">LinkedIn</a><br/>
-      <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/upwork-icon.svg" width="20" style="vertical-align: middle;"/>
-      <a href="https://www.upwork.com/freelancers/~0124192b99907489b4" class="white-link">Upwork</a><br/>
-      <br/>
-      <strong>Links:</strong><br/>
-      💼 <a href="/projects/" class="white-link">Project portfolio</a><br/>
-      🔎 <a href="/research/" class="white-link">Research</a><br/>
-      <br/>
-      <img src="https://img.icons8.com/ios-filled/50/ffffff/marker.png" width="16" style="vertical-align: middle;"/>
-      <span class="white-link">Utrecht, NL</span>
+
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20" style="vertical-align: middle;"/>
+    <a href="https://github.com/amavrits" class="white-link">amavrits</a><br/>
+
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" style="vertical-align: middle;"/>
+    <a href="https://linkedin.com/in/antonis-mavritsakis" class="white-link">LinkedIn</a><br/>
+
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/upwork-icon.svg" width="20" style="vertical-align: middle;"/>
+    <a href="https://www.upwork.com/freelancers/~0124192b99907489b4" class="white-link">Upwork</a><br/>
+
+    <br/>
+    <strong>Links:</strong><br/>
+    💼 <a href="/projects/" class="white-link">Project portfolio</a><br/>
+    🔎 <a href="/research/" class="white-link">Research</a><br/>
+    <br/>
+
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/marker.png" width="16" style="vertical-align: middle;"/>
+    <span class="white-link">Utrecht, NL</span>
   </aside>
+
   <main>
     {{ content }}
   </main>
+
 </div>
