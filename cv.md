@@ -5,28 +5,6 @@ permalink: /cv/
 nav_order: 1
 ---
 
-<!-- Left column -->
-<div>
-
-# Antonis Mavritsakis
-
-✉️ <a href="mailto:amavrits@gmail.com" class="white-link">amavrits.upwork@gmail.com</a><br>
-💼 <a href="/projects/" class="gold-link">Project portfolio</a><br>
-🔎 <a href="/research/" class="gold-link">Research</a><br>
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20" style="vertical-align: middle; margin-right: 4px;" />
-<a href="https://github.com/amavrits" class="white-link">amavrits</a><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" style="vertical-align: middle; margin-right: 4px;" />
-<a href="https://linkedin.com/in/antonis-mavritsakis" class="white-link">LinkedIn</a><br>
-<img src="https://img.icons8.com/ios-filled/50/ffffff/marker.png" width="16" style="vertical-align: middle; margin-right: 4px;" />
-<span class="white-link" style="vertical-align: middle;">Utrecht, NL</span><br>
-
-</div>
-
-<!-- Right column -->
-<div>
-
----
-
 ## Profile
 Data scientist, risk analyst, and civil engineer with expertise in data and risk analysis for infrastructure asset management. With a background in both consulting and research, I excel in developing innovative solutions for complex decision‑making challenges. As a curious and adaptable professional, I thrive in collaborative environments and achieve impactful results.
 
@@ -78,4 +56,3 @@ Data scientist, risk analyst, and civil engineer with expertise in data and risk
 ### Diploma in Civil Engineering  
 **National Technical University of Athens** *(2010 – 2015)* - Graduated top 5% of class  
 
-</div>
