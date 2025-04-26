@@ -91,7 +91,7 @@ h1, h2, h3, h4, h5, h6 {
 .site-header,
 .masthead,
 .site-footer {
-  background-color: #111 !important;
+  //background-color: #111 !important;
   color: #eee !important;
 }
 
@@ -196,6 +196,12 @@ h1, h2, h3, h4, h5, h6 {
 //
 //  &:hover { transform: scale(1.06); }
 //}
+
+.cv-grid > aside {
+  position: sticky;
+  top: 2rem;
+  padding-left: 1.5rem;
+}
 
 .cv-grid {
   display: grid !important;
