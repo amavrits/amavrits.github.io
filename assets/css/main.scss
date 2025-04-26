@@ -205,6 +205,13 @@ h1, h2, h3, h4, h5, h6 {
   margin: 2rem auto 2rem 2rem;
 }
 
+.cv-grid h1 {
+  font-size: 1.7;
+  border-bottom: none !important;
+  padding-bottom: 0 !important;
+  margin-bottom: 1rem; /* Optional: add spacing if needed */
+}
+
 .cv-grid h2 {
   border-bottom: none !important;
   padding-bottom: 0 !important;
