@@ -11,6 +11,7 @@ My portfolio of Data Science projects, ML implementations and Python development
 
 ## Data Science projects
 - <a href="/projects/hunting-game/" class="white-link">Hunting Game – A Web-Based Prey-Predator AI Experience powered via Multi-Agent Reinforcement Learning</a>
+- <a href="/projects/jaxagents/" class="white-link">JAXAgents: a package for efficient (Multi-Agent) Reinforcement Learning</a>
 - <a href="/projects/blackjack-drl/" class="white-link">Beating Blackjack with Deep Reinforcement Learning</a>
 - <a href="/projects/reddit-sentiment/" class="white-link">Reddit Sentiment Analysis for Stock Price Forecasting</a>
 
