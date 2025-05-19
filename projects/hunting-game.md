@@ -24,13 +24,6 @@ This project showcases the power of **Multi-Agent Reinforcement Learning (MARL)*
 
 ---
 
-## 🚀 Getting Started
-
-### 🔗 Online Demo
-Coming soon ...
-
----
-
 ## 🧠 Tech Stack
 
 | Component           | Technology                                                                                         |
