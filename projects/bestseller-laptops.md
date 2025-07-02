@@ -1,4 +1,8 @@
-# 📈 Amazon Laptop Market Analysis
+---
+layout: single
+title: "Amazon Laptop Market Analysis"
+permalink: /projects/bestseller-laptops/
+---
 
 This project automates the process of scraping, analyzing, and summarizing customer reviews of the top-selling laptops on Amazon.nl, with a focus on extracting product-specific insights using GPT-4o.
 
